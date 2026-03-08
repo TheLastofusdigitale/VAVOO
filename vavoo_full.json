@@ -92,11 +92,6 @@
         },
         {
             "name": "BABY TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/39385011257cd02ab803dc",
-            "group": "Italy"
-        },
-        {
-            "name": "BABY TV",
             "url": "https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4",
             "group": "Italy"
         },
@@ -118,11 +113,6 @@
         {
             "name": "BERGAMO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870",
-            "group": "Italy"
-        },
-        {
-            "name": "BIKE",
-            "url": "https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f",
             "group": "Italy"
         },
         {
@@ -158,6 +148,11 @@
         {
             "name": "BYOBLU",
             "url": "https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d",
+            "group": "Italy"
+        },
+        {
+            "name": "CACCIA",
+            "url": "https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca",
             "group": "Italy"
         },
         {
@@ -363,11 +358,6 @@
         {
             "name": "DISCOVERY NOVE",
             "url": "https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc",
-            "group": "Italy"
-        },
-        {
-            "name": "DISCOVERY SCIENCE",
-            "url": "https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15",
             "group": "Italy"
         },
         {
@@ -1426,6 +1416,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY PRIMAFILA 16",
+            "url": "https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582",
+            "group": "Italy"
+        },
+        {
             "name": "SKY PRIMAFILA 17",
             "url": "https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d",
             "group": "Italy"
@@ -1746,11 +1741,6 @@
             "group": "Italy"
         },
         {
-            "name": "TELE ROMAGNA",
-            "url": "https://vavoo.to/vavoo-iptv/play/1294463772435c5239e44",
-            "group": "Italy"
-        },
-        {
             "name": "TELE SIRIO",
             "url": "https://vavoo.to/vavoo-iptv/play/21884692197ee0a9ba39f6",
             "group": "Italy"
@@ -1763,11 +1753,6 @@
         {
             "name": "TELE TUSCIASABINA 2000",
             "url": "https://vavoo.to/vavoo-iptv/play/545707096d82d839e8210",
-            "group": "Italy"
-        },
-        {
-            "name": "TELE VENEZIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/10952221968404a15fb50",
             "group": "Italy"
         },
         {

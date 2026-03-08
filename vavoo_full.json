@@ -476,11 +476,6 @@
             "group": "Italy"
         },
         {
-            "name": "EUROSPORT 5 TIMVISION",
-            "url": "https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79",
-            "group": "Italy"
-        },
-        {
             "name": "EUROSPORT 6 TIMVISION",
             "url": "https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07",
             "group": "Italy"
@@ -716,11 +711,6 @@
             "group": "Italy"
         },
         {
-            "name": "LA NUOVA TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/3894526183af41b9b1aebc",
-            "group": "Italy"
-        },
-        {
             "name": "LA TR3",
             "url": "https://vavoo.to/vavoo-iptv/play/22109966031d6de269f9b8",
             "group": "Italy"
@@ -823,11 +813,6 @@
         {
             "name": "NICK JR",
             "url": "https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065",
-            "group": "Italy"
-        },
-        {
-            "name": "NICKELODEON",
-            "url": "https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c",
             "group": "Italy"
         },
         {
@@ -1096,11 +1081,6 @@
             "group": "Italy"
         },
         {
-            "name": "RAKUTEN FAMILY",
-            "url": "https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4",
-            "group": "Italy"
-        },
-        {
             "name": "RDS SOCIAL",
             "url": "https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d",
             "group": "Italy"
@@ -1233,11 +1213,6 @@
         {
             "name": "RTV SAN MARINO",
             "url": "https://vavoo.to/vavoo-iptv/play/2343767125eb4977361e91",
-            "group": "Italy"
-        },
-        {
-            "name": "RTV SAN MARINO SPORT",
-            "url": "https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f",
             "group": "Italy"
         },
         {
@@ -1386,11 +1361,6 @@
             "group": "Italy"
         },
         {
-            "name": "SKY NATURE",
-            "url": "https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2",
-            "group": "Italy"
-        },
-        {
             "name": "SKY PRIMAFILA 1",
             "url": "https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231",
             "group": "Italy"
@@ -1501,6 +1471,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY PRIMAFILA 7",
+            "url": "https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4",
+            "group": "Italy"
+        },
+        {
             "name": "SKY PRIMAFILA 8",
             "url": "https://vavoo.to/vavoo-iptv/play/213025533947852942a90f",
             "group": "Italy"
@@ -1583,11 +1558,6 @@
         {
             "name": "SKY SPORT MOTOGP",
             "url": "https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY SPORT NBA",
-            "url": "https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce",
             "group": "Italy"
         },
         {

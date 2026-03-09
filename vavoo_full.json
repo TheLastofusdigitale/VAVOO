@@ -121,11 +121,6 @@
             "group": "Italy"
         },
         {
-            "name": "BIKE",
-            "url": "https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f",
-            "group": "Italy"
-        },
-        {
             "name": "BLAZE",
             "url": "https://vavoo.to/vavoo-iptv/play/25326356590c9338734e4b",
             "group": "Italy"
@@ -323,11 +318,6 @@
         {
             "name": "CUSANO NEWS7",
             "url": "https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a",
-            "group": "Italy"
-        },
-        {
-            "name": "DAZN (MATCH TIME)",
-            "url": "https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439",
             "group": "Italy"
         },
         {
@@ -1236,11 +1226,6 @@
             "group": "Italy"
         },
         {
-            "name": "RTV SAN MARINO SPORT",
-            "url": "https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f",
-            "group": "Italy"
-        },
-        {
             "name": "SAN MARINO RTV",
             "url": "https://vavoo.to/vavoo-iptv/play/968665235fe574bf09dcb",
             "group": "Italy"
@@ -1498,6 +1483,11 @@
         {
             "name": "SKY PRIMAFILA 7",
             "url": "https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY PRIMAFILA 8",
+            "url": "https://vavoo.to/vavoo-iptv/play/213025533947852942a90f",
             "group": "Italy"
         },
         {

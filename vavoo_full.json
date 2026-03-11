@@ -166,11 +166,6 @@
             "group": "Italy"
         },
         {
-            "name": "CACCIA E PESCA",
-            "url": "https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e",
-            "group": "Italy"
-        },
-        {
             "name": "CAFE 24",
             "url": "https://vavoo.to/vavoo-iptv/play/1625923783d5a6dda233b3",
             "group": "Italy"
@@ -803,6 +798,11 @@
         {
             "name": "MTV",
             "url": "https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1",
+            "group": "Italy"
+        },
+        {
+            "name": "MTV HITS",
+            "url": "https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22",
             "group": "Italy"
         },
         {
@@ -1502,6 +1502,11 @@
         },
         {
             "name": "SKY PRIMAFILA 8",
+            "url": "https://vavoo.to/vavoo-iptv/play/213025533947852942a90f",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY PRIMAFILA 8",
             "url": "https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d",
             "group": "Italy"
         },
@@ -1588,6 +1593,11 @@
         {
             "name": "SKY SPORT NBA",
             "url": "https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY SPORT TENNIS",
+            "url": "https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6",
             "group": "Italy"
         },
         {

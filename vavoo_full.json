@@ -806,11 +806,6 @@
             "group": "Italy"
         },
         {
-            "name": "MOTORTREND",
-            "url": "https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74",
-            "group": "Italy"
-        },
-        {
             "name": "MTV",
             "url": "https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1",
             "group": "Italy"
@@ -1253,6 +1248,11 @@
         {
             "name": "RTV SAN MARINO",
             "url": "https://vavoo.to/vavoo-iptv/play/2343767125eb4977361e91",
+            "group": "Italy"
+        },
+        {
+            "name": "RTV SAN MARINO SPORT",
+            "url": "https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f",
             "group": "Italy"
         },
         {

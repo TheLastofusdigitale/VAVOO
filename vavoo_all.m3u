@@ -519,6 +519,8 @@ https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918
 https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
 #EXTINF:-1 group-title="Italy",SKY CINEMA ACTION
 https://vavoo.to/vavoo-iptv/play/381279617198e7a1b969ee
+#EXTINF:-1 group-title="Italy",SKY CINEMA ACTION
+https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62
 #EXTINF:-1 group-title="Italy",SKY CINEMA ACTION (BACKUP)
 https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
 #EXTINF:-1 group-title="Italy",SKY CINEMA COLLECTION
@@ -785,8 +787,6 @@ https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 https://vavoo.to/vavoo-iptv/play/2764553737f817b6d4f583
 #EXTINF:-1 group-title="Italy",TRENTINO TV
 https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
-#EXTINF:-1 group-title="Italy",TRSPORT
-https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 #EXTINF:-1 group-title="Italy",TV 2000
 https://vavoo.to/vavoo-iptv/play/1949044924a6c217960c23
 #EXTINF:-1 group-title="Italy",TV 8

@@ -1,6 +1,11 @@
 {
     "Italy": [
         {
+            "name": "111 TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/160013981909ce6c338fef",
+            "group": "Italy"
+        },
+        {
             "name": "12 TV PARMA",
             "url": "https://vavoo.to/vavoo-iptv/play/631792369df7bdd7e9291",
             "group": "Italy"

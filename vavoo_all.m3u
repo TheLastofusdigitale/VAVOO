@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Italy",111 TV
+https://vavoo.to/vavoo-iptv/play/160013981909ce6c338fef
 #EXTINF:-1 group-title="Italy",12 TV PARMA
 https://vavoo.to/vavoo-iptv/play/631792369df7bdd7e9291
 #EXTINF:-1 group-title="Italy",20 MEDIASET

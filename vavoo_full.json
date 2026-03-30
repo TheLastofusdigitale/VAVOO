@@ -326,6 +326,11 @@
             "group": "Italy"
         },
         {
+            "name": "DAZN (MATCH TIME)",
+            "url": "https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439",
+            "group": "Italy"
+        },
+        {
             "name": "DAZN 1",
             "url": "https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20",
             "group": "Italy"
@@ -368,6 +373,11 @@
         {
             "name": "DISCOVERY NOVE",
             "url": "https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc",
+            "group": "Italy"
+        },
+        {
+            "name": "DISCOVERY SCIENCE",
+            "url": "https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15",
             "group": "Italy"
         },
         {
@@ -476,11 +486,6 @@
             "group": "Italy"
         },
         {
-            "name": "EUROSPORT 5 TIMVISION",
-            "url": "https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79",
-            "group": "Italy"
-        },
-        {
             "name": "EUROSPORT 6 TIMVISION",
             "url": "https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07",
             "group": "Italy"
@@ -568,11 +573,6 @@
         {
             "name": "GLOBUS TELEVISION",
             "url": "https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6",
-            "group": "Italy"
-        },
-        {
-            "name": "GOLD TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/2854396316c4fc7fe60f75",
             "group": "Italy"
         },
         {
@@ -786,6 +786,16 @@
             "group": "Italy"
         },
         {
+            "name": "MOTORTREND",
+            "url": "https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38",
+            "group": "Italy"
+        },
+        {
+            "name": "MOTORTREND",
+            "url": "https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74",
+            "group": "Italy"
+        },
+        {
             "name": "MTV HITS",
             "url": "https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22",
             "group": "Italy"
@@ -798,6 +808,11 @@
         {
             "name": "NAT GEO",
             "url": "https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe",
+            "group": "Italy"
+        },
+        {
+            "name": "NAT GEO WILD",
+            "url": "https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e",
             "group": "Italy"
         },
         {
@@ -1898,6 +1913,11 @@
         {
             "name": "TG NORBA 24",
             "url": "https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a",
+            "group": "Italy"
+        },
+        {
+            "name": "TG NORBA 24",
+            "url": "https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c",
             "group": "Italy"
         },
         {

@@ -189,10 +189,10 @@ https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 group-title="Italy",EUROSPORT 2
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
+#EXTINF:-1 group-title="Italy",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 group-title="Italy",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
-#EXTINF:-1 group-title="Italy",EUROSPORT 5 TIMVISION
-https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79
 #EXTINF:-1 group-title="Italy",EUROSPORT 6 TIMVISION
 https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07
 #EXTINF:-1 group-title="Italy",EXTRA TV
@@ -325,8 +325,6 @@ https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 group-title="Italy",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
-#EXTINF:-1 group-title="Italy",NAT GEO WILD
-https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 #EXTINF:-1 group-title="Italy",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
 #EXTINF:-1 group-title="Italy",NICKELODEON
@@ -365,6 +363,8 @@ https://vavoo.to/vavoo-iptv/play/91764224e4ebfa90eace
 https://vavoo.to/vavoo-iptv/play/3497884599a7fdd17618d9
 #EXTINF:-1 group-title="Italy",PRIMOCANALE
 https://vavoo.to/vavoo-iptv/play/2944239261b7c6547b7641
+#EXTINF:-1 group-title="Italy",QUARTA RETE
+https://vavoo.to/vavoo-iptv/play/280418908527b8c8187a0b
 #EXTINF:-1 group-title="Italy",QVC
 https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
 #EXTINF:-1 group-title="Italy",QVC ITALIA
@@ -599,227 +599,3 @@ https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
 #EXTINF:-1 group-title="Italy",SKY PRIMAFILA 7
 https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
-#EXTINF:-1 group-title="Italy",SKY PRIMAFILA 8
-https://vavoo.to/vavoo-iptv/play/213025533947852942a90f
-#EXTINF:-1 group-title="Italy",SKY PRIMAFILA 8
-https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d
-#EXTINF:-1 group-title="Italy",SKY PRIMAFILA 9
-https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722
-#EXTINF:-1 group-title="Italy",SKY PRIMAFILA 9
-https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
-#EXTINF:-1 group-title="Italy",SKY SERIE
-https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65
-#EXTINF:-1 group-title="Italy",SKY SPORT 24
-https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87
-#EXTINF:-1 group-title="Italy",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
-https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
-#EXTINF:-1 group-title="Italy",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 group-title="Italy",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
-#EXTINF:-1 group-title="Italy",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
-#EXTINF:-1 group-title="Italy",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
-#EXTINF:-1 group-title="Italy",SKY SPORT F1
-https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
-#EXTINF:-1 group-title="Italy",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
-https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
-#EXTINF:-1 group-title="Italy",SKY SPORT GOLF
-https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
-#EXTINF:-1 group-title="Italy",SKY SPORT MAX
-https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
-#EXTINF:-1 group-title="Italy",SKY SPORT MOTO GP
-https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
-#EXTINF:-1 group-title="Italy",SKY SPORT MOTOGP
-https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
-#EXTINF:-1 group-title="Italy",SKY SPORT NBA
-https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
-#EXTINF:-1 group-title="Italy",SKY SPORT NBA
-https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
-#EXTINF:-1 group-title="Italy",SKY SPORT TENNIS
-https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
-#EXTINF:-1 group-title="Italy",SKY SPORT TENNIS
-https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
-#EXTINF:-1 group-title="Italy",SKY SPORT UNO
-https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
-#EXTINF:-1 group-title="Italy",SKY SPORT UNO
-https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
-#EXTINF:-1 group-title="Italy",SKY SPORTS F1
-https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
-#EXTINF:-1 group-title="Italy",SKY SUPER TENNIS
-https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
-#EXTINF:-1 group-title="Italy",SKY TG 24
-https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
-#EXTINF:-1 group-title="Italy",SKY TG 24
-https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
-#EXTINF:-1 group-title="Italy",SKY UNO
-https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
-#EXTINF:-1 group-title="Italy",SKY UNO
-https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
-#EXTINF:-1 group-title="Italy",SKYSHOWTIME 1
-https://vavoo.to/vavoo-iptv/play/287379323134c651595371
-#EXTINF:-1 group-title="Italy",SPORT ITALIA
-https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
-#EXTINF:-1 group-title="Italy",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
-https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
-#EXTINF:-1 group-title="Italy",SPORTITALIA PLUS
-https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
-#EXTINF:-1 group-title="Italy",SPORTITALIA SOLOCALCIO
-https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34
-#EXTINF:-1 group-title="Italy",ST EUROPE CHANNEL
-https://vavoo.to/vavoo-iptv/play/2356295928676bcb269bb3
-#EXTINF:-1 group-title="Italy",STAR CHANNEL
-https://vavoo.to/vavoo-iptv/play/323779351103799e6e03b2
-#EXTINF:-1 group-title="Italy",STAR CRIME
-https://vavoo.to/vavoo-iptv/play/28436429458ff4e2cc4ae6
-#EXTINF:-1 group-title="Italy",STEREO 5 TV
-https://vavoo.to/vavoo-iptv/play/88205050e85664590a6b
-#EXTINF:-1 group-title="Italy",SUPER TENNIS
-https://vavoo.to/vavoo-iptv/play/3213195143c3be65cec024
-#EXTINF:-1 group-title="Italy",SUPER TENNIS
-https://vavoo.to/vavoo-iptv/play/300937751365646200d097
-#EXTINF:-1 group-title="Italy",SUPER TV ARISTANIS
-https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
-#EXTINF:-1 group-title="Italy",SUPER TV BRESCIA
-https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
-#EXTINF:-1 group-title="Italy",SUPER!
-https://vavoo.to/vavoo-iptv/play/3550030443fb56cbe586ef
-#EXTINF:-1 group-title="Italy",SUPER!
-https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
-#EXTINF:-1 group-title="Italy",SUPERSIX LOMBARDIA
-https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
-#EXTINF:-1 group-title="Italy",TELE ABRUZZO
-https://vavoo.to/vavoo-iptv/play/16683935829997b8a7bc92
-#EXTINF:-1 group-title="Italy",TELE CHIARA
-https://vavoo.to/vavoo-iptv/play/2487986216af30aedb116a
-#EXTINF:-1 group-title="Italy",TELE CHIARA
-https://vavoo.to/vavoo-iptv/play/2521825076452ac13ce197
-#EXTINF:-1 group-title="Italy",TELE FRIULI
-https://vavoo.to/vavoo-iptv/play/35518823447060ba68f520
-#EXTINF:-1 group-title="Italy",TELE LIGURIA SUD
-https://vavoo.to/vavoo-iptv/play/87479718111853618b3cd
-#EXTINF:-1 group-title="Italy",TELE PAVIA
-https://vavoo.to/vavoo-iptv/play/6164833177424547eff1f
-#EXTINF:-1 group-title="Italy",TELE ROMAGNA
-https://vavoo.to/vavoo-iptv/play/1294463772435c5239e44
-#EXTINF:-1 group-title="Italy",TELE SIRIO
-https://vavoo.to/vavoo-iptv/play/21884692197ee0a9ba39f6
-#EXTINF:-1 group-title="Italy",TELE TRICOLORE
-https://vavoo.to/vavoo-iptv/play/2314613216d218b9f4abd4
-#EXTINF:-1 group-title="Italy",TELE TUSCIASABINA 2000
-https://vavoo.to/vavoo-iptv/play/545707096d82d839e8210
-#EXTINF:-1 group-title="Italy",TELE VENEZIA
-https://vavoo.to/vavoo-iptv/play/10952221968404a15fb50
-#EXTINF:-1 group-title="Italy",TELEARENA
-https://vavoo.to/vavoo-iptv/play/408156101494ee7f98efdd
-#EXTINF:-1 group-title="Italy",TELEARTE
-https://vavoo.to/vavoo-iptv/play/2586615238c67a91af5daa
-#EXTINF:-1 group-title="Italy",TELEBARI
-https://vavoo.to/vavoo-iptv/play/136289137055b8afba310b
-#EXTINF:-1 group-title="Italy",TELEBELLUNO
-https://vavoo.to/vavoo-iptv/play/3696520354663b7a8a1b38
-#EXTINF:-1 group-title="Italy",TELEBOARIO
-https://vavoo.to/vavoo-iptv/play/338336420207ccf0ade90b
-#EXTINF:-1 group-title="Italy",TELECITTA
-https://vavoo.to/vavoo-iptv/play/267623597867e1040d0574
-#EXTINF:-1 group-title="Italy",TELECOLOR
-https://vavoo.to/vavoo-iptv/play/1133239022f5df6ba1ba0a
-#EXTINF:-1 group-title="Italy",TELEFOGGIA
-https://vavoo.to/vavoo-iptv/play/2365107871d881ed0d7a81
-#EXTINF:-1 group-title="Italy",TELEMANTOVA
-https://vavoo.to/vavoo-iptv/play/14253278894ad29279077a
-#EXTINF:-1 group-title="Italy",TELEMIA
-https://vavoo.to/vavoo-iptv/play/32437629310acfa61179b0
-#EXTINF:-1 group-title="Italy",TELEMISTRETTA
-https://vavoo.to/vavoo-iptv/play/14384405078009392cf5c8
-#EXTINF:-1 group-title="Italy",TELEMOLISE
-https://vavoo.to/vavoo-iptv/play/780186974728e73711da8
-#EXTINF:-1 group-title="Italy",TELENORD
-https://vavoo.to/vavoo-iptv/play/2923215049219f1039e542
-#EXTINF:-1 group-title="Italy",TELEPACE 1
-https://vavoo.to/vavoo-iptv/play/28766467002afd747d5523
-#EXTINF:-1 group-title="Italy",TELEPACE 2
-https://vavoo.to/vavoo-iptv/play/3973472252e684fd2d0acb
-#EXTINF:-1 group-title="Italy",TELEPACE 3
-https://vavoo.to/vavoo-iptv/play/3518395980216546f5452a
-#EXTINF:-1 group-title="Italy",TELEPACE 4
-https://vavoo.to/vavoo-iptv/play/1670818396815a6c065dd0
-#EXTINF:-1 group-title="Italy",TELEPACE TRENTO (HISTORY LAB)
-https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
-#EXTINF:-1 group-title="Italy",TELEQUATTRO
-https://vavoo.to/vavoo-iptv/play/10839846696ddb422bcd88
-#EXTINF:-1 group-title="Italy",TELERAMA
-https://vavoo.to/vavoo-iptv/play/4017608910fce4d0302c20
-#EXTINF:-1 group-title="Italy",TELEROMAGNA
-https://vavoo.to/vavoo-iptv/play/279439224488ada9f3a1b3
-#EXTINF:-1 group-title="Italy",TELESIRIO
-https://vavoo.to/vavoo-iptv/play/1357694629b32c792b6337
-#EXTINF:-1 group-title="Italy",TELESPAZIO TV
-https://vavoo.to/vavoo-iptv/play/38676564387b48bdb05ad
-#EXTINF:-1 group-title="Italy",TELETRICOLORE
-https://vavoo.to/vavoo-iptv/play/2521763009f0e0ef1051a6
-#EXTINF:-1 group-title="Italy",TELETUTTO
-https://vavoo.to/vavoo-iptv/play/3271666551331132c8bfab
-#EXTINF:-1 group-title="Italy",TG COM 24
-https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
-#EXTINF:-1 group-title="Italy",TG NORBA 24
-https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a
-#EXTINF:-1 group-title="Italy",TG NORBA 24
-https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
-#EXTINF:-1 group-title="Italy",TGCOM 24
-https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066
-#EXTINF:-1 group-title="Italy",TOP CRIME
-https://vavoo.to/vavoo-iptv/play/269503091e10b2c24af1d
-#EXTINF:-1 group-title="Italy",TOP CRIME
-https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
-#EXTINF:-1 group-title="Italy",TRENTINO TV
-https://vavoo.to/vavoo-iptv/play/2764553737f817b6d4f583
-#EXTINF:-1 group-title="Italy",TRENTINO TV
-https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
-#EXTINF:-1 group-title="Italy",TRSPORT
-https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
-#EXTINF:-1 group-title="Italy",TV 2000
-https://vavoo.to/vavoo-iptv/play/1949044924a6c217960c23
-#EXTINF:-1 group-title="Italy",TV 8
-https://vavoo.to/vavoo-iptv/play/40383657201f43ce81681d
-#EXTINF:-1 group-title="Italy",TV 8
-https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb
-#EXTINF:-1 group-title="Italy",TV LUNA
-https://vavoo.to/vavoo-iptv/play/37897066429b9ef63bb97c
-#EXTINF:-1 group-title="Italy",TV QUI
-https://vavoo.to/vavoo-iptv/play/220293751865cbdd1866be
-#EXTINF:-1 group-title="Italy",TV QUI (MODENA)
-https://vavoo.to/vavoo-iptv/play/3845119578fb3b0c0d1832
-#EXTINF:-1 group-title="Italy",TV2000
-https://vavoo.to/vavoo-iptv/play/11337349729837365ad79b
-#EXTINF:-1 group-title="Italy",TV7 NEWS
-https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
-#EXTINF:-1 group-title="Italy",TVA VICENZA
-https://vavoo.to/vavoo-iptv/play/3071392662a754d82b0840
-#EXTINF:-1 group-title="Italy",TVA VICENZA
-https://vavoo.to/vavoo-iptv/play/3038112906ea7474420e4b
-#EXTINF:-1 group-title="Italy",TVRS
-https://vavoo.to/vavoo-iptv/play/148874663839cdbe9a2d7e
-#EXTINF:-1 group-title="Italy",UMBRIA TV
-https://vavoo.to/vavoo-iptv/play/1597386407952db649a6ca
-#EXTINF:-1 group-title="Italy",UMBRIA TV
-https://vavoo.to/vavoo-iptv/play/2230919796f4c4a3b6f393
-#EXTINF:-1 group-title="Italy",UNINETTUNO
-https://vavoo.to/vavoo-iptv/play/797328723f4292436afc4
-#EXTINF:-1 group-title="Italy",UNINETTUNO UNIVERSITY TV
-https://vavoo.to/vavoo-iptv/play/3765504418d7a4047993c
-#EXTINF:-1 group-title="Italy",VCO AZZURRA TV
-https://vavoo.to/vavoo-iptv/play/20700707550e841728d807
-#EXTINF:-1 group-title="Italy",VH1
-https://vavoo.to/vavoo-iptv/play/22376603018e09f8150d84
-#EXTINF:-1 group-title="Italy",VIDEO NOVARA
-https://vavoo.to/vavoo-iptv/play/27917814213e17be842a1b
-#EXTINF:-1 group-title="Italy",VIDEOLINA
-https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f
-#EXTINF:-1 group-title="Italy",VIDEOSTAR TV
-https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86
-#EXTINF:-1 group-title="Italy",VIDEOTOLENTINO
-https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
-#EXTINF:-1 group-title="Italy",YU-GI-OH! ITALY
-https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb

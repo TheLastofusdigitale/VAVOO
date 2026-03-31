@@ -71,11 +71,6 @@
             "group": "Italy"
         },
         {
-            "name": "ARANCIA TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/1792428355edae51bf7896",
-            "group": "Italy"
-        },
-        {
             "name": "ARTE NETWORK",
             "url": "https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d",
             "group": "Italy"
@@ -116,11 +111,6 @@
             "group": "Italy"
         },
         {
-            "name": "BIKE",
-            "url": "https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f",
-            "group": "Italy"
-        },
-        {
             "name": "BLAZE",
             "url": "https://vavoo.to/vavoo-iptv/play/25326356590c9338734e4b",
             "group": "Italy"
@@ -158,6 +148,11 @@
         {
             "name": "CACCIA",
             "url": "https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca",
+            "group": "Italy"
+        },
+        {
+            "name": "CACCIA E PESCA",
+            "url": "https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e",
             "group": "Italy"
         },
         {
@@ -321,11 +316,6 @@
             "group": "Italy"
         },
         {
-            "name": "DAZN (MATCH TIME)",
-            "url": "https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439",
-            "group": "Italy"
-        },
-        {
             "name": "DAZN 1",
             "url": "https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20",
             "group": "Italy"
@@ -343,11 +333,6 @@
         {
             "name": "DEEJAY TV",
             "url": "https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319",
-            "group": "Italy"
-        },
-        {
-            "name": "DISCOVERY CHANNEL",
-            "url": "https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1",
             "group": "Italy"
         },
         {
@@ -476,6 +461,11 @@
             "group": "Italy"
         },
         {
+            "name": "EUROSPORT 5 TIMVISION",
+            "url": "https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79",
+            "group": "Italy"
+        },
+        {
             "name": "EUROSPORT 6 TIMVISION",
             "url": "https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07",
             "group": "Italy"
@@ -486,13 +476,8 @@
             "group": "Italy"
         },
         {
-            "name": "FANO TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/1798700028a88b50c2df9d",
-            "group": "Italy"
-        },
-        {
-            "name": "FASHIONTV",
-            "url": "https://vavoo.to/vavoo-iptv/play/3255207570b230d786fb10",
+            "name": "FASHION TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/3028319308fc52849f3d94",
             "group": "Italy"
         },
         {
@@ -566,11 +551,6 @@
             "group": "Italy"
         },
         {
-            "name": "GRANDUCATO",
-            "url": "https://vavoo.to/vavoo-iptv/play/9421530140b5164a467be",
-            "group": "Italy"
-        },
-        {
             "name": "HGTV",
             "url": "https://vavoo.to/vavoo-iptv/play/28977827817ceeecfaf662",
             "group": "Italy"
@@ -578,6 +558,11 @@
         {
             "name": "HGTV",
             "url": "https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e",
+            "group": "Italy"
+        },
+        {
+            "name": "HISTORY",
+            "url": "https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152",
             "group": "Italy"
         },
         {
@@ -711,11 +696,6 @@
             "group": "Italy"
         },
         {
-            "name": "LAZIO TV 13",
-            "url": "https://vavoo.to/vavoo-iptv/play/56652751299dc0b400d5c",
-            "group": "Italy"
-        },
-        {
             "name": "LIRA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568",
             "group": "Italy"
@@ -773,11 +753,6 @@
         {
             "name": "MOTORTREND",
             "url": "https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38",
-            "group": "Italy"
-        },
-        {
-            "name": "MOTORTREND",
-            "url": "https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74",
             "group": "Italy"
         },
         {
@@ -891,11 +866,6 @@
             "group": "Italy"
         },
         {
-            "name": "QUARTA RETE",
-            "url": "https://vavoo.to/vavoo-iptv/play/280418908527b8c8187a0b",
-            "group": "Italy"
-        },
-        {
             "name": "QVC",
             "url": "https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238",
             "group": "Italy"
@@ -918,11 +888,6 @@
         {
             "name": "RADIO FRECCIA",
             "url": "https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3",
-            "group": "Italy"
-        },
-        {
-            "name": "RADIONORBA TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/26276627684bd1fbc5cb29",
             "group": "Italy"
         },
         {
@@ -1071,11 +1036,6 @@
             "group": "Italy"
         },
         {
-            "name": "RAKUTEN FAMILY",
-            "url": "https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4",
-            "group": "Italy"
-        },
-        {
             "name": "RDS SOCIAL",
             "url": "https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d",
             "group": "Italy"
@@ -1138,11 +1098,6 @@
         {
             "name": "RETEBIELLA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce",
-            "group": "Italy"
-        },
-        {
-            "name": "RMC 101",
-            "url": "https://vavoo.to/vavoo-iptv/play/2209352147379c000ac415",
             "group": "Italy"
         },
         {

@@ -471,6 +471,11 @@
             "group": "Italy"
         },
         {
+            "name": "EUROSPORT 2 TIMVISION",
+            "url": "https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb",
+            "group": "Italy"
+        },
+        {
             "name": "EUROSPORT 4 TIMVISION",
             "url": "https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2",
             "group": "Italy"
@@ -783,6 +788,11 @@
         {
             "name": "MILAN TV",
             "url": "https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47",
+            "group": "Italy"
+        },
+        {
+            "name": "MOTORTREND",
+            "url": "https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38",
             "group": "Italy"
         },
         {
@@ -1493,11 +1503,6 @@
         {
             "name": "SKY PRIMAFILA 9",
             "url": "https://vavoo.to/vavoo-iptv/play/17532606771304e2497369",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY SERIE",
-            "url": "https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65",
             "group": "Italy"
         },
         {

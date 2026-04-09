@@ -241,11 +241,6 @@
             "group": "Italy"
         },
         {
-            "name": "CARTOON NETWORK",
-            "url": "https://vavoo.to/vavoo-iptv/play/1289777017c50e3cf3fd74",
-            "group": "Italy"
-        },
-        {
             "name": "CARTOONITO",
             "url": "https://vavoo.to/vavoo-iptv/play/19872204364fe52737bf18",
             "group": "Italy"
@@ -571,11 +566,6 @@
             "group": "Italy"
         },
         {
-            "name": "GLOBUS TELEVISION",
-            "url": "https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6",
-            "group": "Italy"
-        },
-        {
             "name": "GOLD TV",
             "url": "https://vavoo.to/vavoo-iptv/play/2854396316c4fc7fe60f75",
             "group": "Italy"
@@ -593,6 +583,11 @@
         {
             "name": "HGTV",
             "url": "https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e",
+            "group": "Italy"
+        },
+        {
+            "name": "HISTORY",
+            "url": "https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152",
             "group": "Italy"
         },
         {
@@ -638,6 +633,11 @@
         {
             "name": "ITALIAN FISHING TV",
             "url": "https://vavoo.to/vavoo-iptv/play/4235410936b108b39c28d1",
+            "group": "Italy"
+        },
+        {
+            "name": "ITALIAN FISHING TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68",
             "group": "Italy"
         },
         {
@@ -1133,11 +1133,6 @@
         {
             "name": "RETEBIELLA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce",
-            "group": "Italy"
-        },
-        {
-            "name": "RMC 101",
-            "url": "https://vavoo.to/vavoo-iptv/play/2209352147379c000ac415",
             "group": "Italy"
         },
         {
@@ -1998,6 +1993,11 @@
         {
             "name": "VIDEOSTAR TV",
             "url": "https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86",
+            "group": "Italy"
+        },
+        {
+            "name": "VIDEOTOLENTINO",
+            "url": "https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c",
             "group": "Italy"
         },
         {

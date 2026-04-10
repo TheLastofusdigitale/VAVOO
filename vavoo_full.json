@@ -376,6 +376,11 @@
             "group": "Italy"
         },
         {
+            "name": "DISNEY+ FILM",
+            "url": "https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927",
+            "group": "Italy"
+        },
+        {
             "name": "DMAX",
             "url": "https://vavoo.to/vavoo-iptv/play/3008151733b9915486ff45",
             "group": "Italy"
@@ -588,11 +593,6 @@
         {
             "name": "HGTV",
             "url": "https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e",
-            "group": "Italy"
-        },
-        {
-            "name": "HISTORY",
-            "url": "https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152",
             "group": "Italy"
         },
         {
@@ -1268,6 +1268,11 @@
         {
             "name": "SKY CINEMA COLLECTION",
             "url": "https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY CINEMA COMEDY",
+            "url": "https://vavoo.to/vavoo-iptv/play/500203271d58941028e95",
             "group": "Italy"
         },
         {

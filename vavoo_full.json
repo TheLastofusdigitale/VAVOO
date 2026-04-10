@@ -376,11 +376,6 @@
             "group": "Italy"
         },
         {
-            "name": "DISNEY+ FILM",
-            "url": "https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927",
-            "group": "Italy"
-        },
-        {
             "name": "DMAX",
             "url": "https://vavoo.to/vavoo-iptv/play/3008151733b9915486ff45",
             "group": "Italy"
@@ -1277,11 +1272,6 @@
         },
         {
             "name": "SKY CINEMA COMEDY",
-            "url": "https://vavoo.to/vavoo-iptv/play/500203271d58941028e95",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY CINEMA COMEDY",
             "url": "https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce",
             "group": "Italy"
         },
@@ -1803,6 +1793,11 @@
         {
             "name": "TELEMOLISE",
             "url": "https://vavoo.to/vavoo-iptv/play/780186974728e73711da8",
+            "group": "Italy"
+        },
+        {
+            "name": "TELENORD",
+            "url": "https://vavoo.to/vavoo-iptv/play/2923215049219f1039e542",
             "group": "Italy"
         },
         {

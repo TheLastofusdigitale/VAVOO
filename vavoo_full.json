@@ -71,11 +71,6 @@
             "group": "Italy"
         },
         {
-            "name": "ARANCIA TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/1792428355edae51bf7896",
-            "group": "Italy"
-        },
-        {
             "name": "ARTE NETWORK",
             "url": "https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d",
             "group": "Italy"
@@ -91,11 +86,6 @@
             "group": "Italy"
         },
         {
-            "name": "BABY TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/39385011257cd02ab803dc",
-            "group": "Italy"
-        },
-        {
             "name": "BBC TOP GEAR ITALY",
             "url": "https://vavoo.to/vavoo-iptv/play/2330946937dd53b634ff71",
             "group": "Italy"
@@ -103,11 +93,6 @@
         {
             "name": "BELLA RADIO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/15850058604ed339a2ed20",
-            "group": "Italy"
-        },
-        {
-            "name": "BELLLA & MONELLA TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae",
             "group": "Italy"
         },
         {
@@ -543,6 +528,11 @@
         {
             "name": "FOX",
             "url": "https://vavoo.to/vavoo-iptv/play/56316060941df205a0842",
+            "group": "Italy"
+        },
+        {
+            "name": "FRANCE 24 (EN)",
+            "url": "https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121",
             "group": "Italy"
         },
         {
@@ -1356,11 +1346,6 @@
             "group": "Italy"
         },
         {
-            "name": "SKY NATURE",
-            "url": "https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2",
-            "group": "Italy"
-        },
-        {
             "name": "SKY PRIMAFILA 1",
             "url": "https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231",
             "group": "Italy"
@@ -1513,16 +1498,6 @@
         {
             "name": "SKY SPORT ARENA",
             "url": "https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY SPORT ARENA",
-            "url": "https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY SPORT CALCIO",
-            "url": "https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6",
             "group": "Italy"
         },
         {

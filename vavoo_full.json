@@ -71,11 +71,6 @@
             "group": "Italy"
         },
         {
-            "name": "ARANCIA TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/1792428355edae51bf7896",
-            "group": "Italy"
-        },
-        {
             "name": "ARTE NETWORK",
             "url": "https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d",
             "group": "Italy"
@@ -83,6 +78,11 @@
         {
             "name": "AURORA ARTE",
             "url": "https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0",
+            "group": "Italy"
+        },
+        {
+            "name": "AVENGERS GRIMM CHANNEL",
+            "url": "https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43",
             "group": "Italy"
         },
         {
@@ -101,13 +101,13 @@
             "group": "Italy"
         },
         {
-            "name": "BERGAMO TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870",
+            "name": "BELLLA & MONELLA TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae",
             "group": "Italy"
         },
         {
-            "name": "BIKE",
-            "url": "https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f",
+            "name": "BERGAMO TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870",
             "group": "Italy"
         },
         {
@@ -278,6 +278,11 @@
         {
             "name": "CLASSICA",
             "url": "https://vavoo.to/vavoo-iptv/play/640609226bada55274ff",
+            "group": "Italy"
+        },
+        {
+            "name": "COMEDY CENTRAL",
+            "url": "https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066",
             "group": "Italy"
         },
         {
@@ -453,11 +458,6 @@
         {
             "name": "EUROSPORT 2",
             "url": "https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e",
-            "group": "Italy"
-        },
-        {
-            "name": "EUROSPORT 2 TIMVISION",
-            "url": "https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb",
             "group": "Italy"
         },
         {

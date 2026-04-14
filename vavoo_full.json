@@ -471,6 +471,11 @@
             "group": "Italy"
         },
         {
+            "name": "EUROSPORT 2 TIMVISION",
+            "url": "https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb",
+            "group": "Italy"
+        },
+        {
             "name": "EUROSPORT 4 TIMVISION",
             "url": "https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2",
             "group": "Italy"
@@ -518,6 +523,11 @@
         {
             "name": "FOCUS",
             "url": "https://vavoo.to/vavoo-iptv/play/3439223610a4fec93d907a",
+            "group": "Italy"
+        },
+        {
+            "name": "FOCUS",
+            "url": "https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e",
             "group": "Italy"
         },
         {
@@ -776,6 +786,11 @@
             "group": "Italy"
         },
         {
+            "name": "MOTORTREND",
+            "url": "https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38",
+            "group": "Italy"
+        },
+        {
             "name": "NAT GEO",
             "url": "https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce",
             "group": "Italy"
@@ -786,13 +801,13 @@
             "group": "Italy"
         },
         {
-            "name": "NAT GEO WILD",
-            "url": "https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e",
+            "name": "NICK JR",
+            "url": "https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065",
             "group": "Italy"
         },
         {
-            "name": "NICK JR",
-            "url": "https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065",
+            "name": "NICKELODEON",
+            "url": "https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c",
             "group": "Italy"
         },
         {
@@ -1033,6 +1048,11 @@
         {
             "name": "RAI SPORT [LIVE DURING EVENTS ONLY]",
             "url": "https://vavoo.to/vavoo-iptv/play/55173022458f32c70e30a",
+            "group": "Italy"
+        },
+        {
+            "name": "RAI SPORT+",
+            "url": "https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19",
             "group": "Italy"
         },
         {
@@ -1331,6 +1351,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY NATURE",
+            "url": "https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2",
+            "group": "Italy"
+        },
+        {
             "name": "SKY PRIMAFILA 1",
             "url": "https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231",
             "group": "Italy"
@@ -1498,16 +1523,6 @@
         {
             "name": "SKY SPORT CALCIO",
             "url": "https://vavoo.to/vavoo-iptv/play/449990998077a7691828f",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY SPORT CALCIO",
-            "url": "https://vavoo.to/vavoo-iptv/play/449990998077a7691828f",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY SPORT F1",
-            "url": "https://vavoo.to/vavoo-iptv/play/42467740561588897497f2",
             "group": "Italy"
         },
         {
@@ -1858,11 +1873,6 @@
         {
             "name": "TGCOM 24",
             "url": "https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066",
-            "group": "Italy"
-        },
-        {
-            "name": "TOP CRIME",
-            "url": "https://vavoo.to/vavoo-iptv/play/269503091e10b2c24af1d",
             "group": "Italy"
         },
         {

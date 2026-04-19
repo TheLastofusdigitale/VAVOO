@@ -441,11 +441,6 @@
             "group": "Italy"
         },
         {
-            "name": "EURO TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/422225837740225c1416e8",
-            "group": "Italy"
-        },
-        {
             "name": "EURONEWS",
             "url": "https://vavoo.to/vavoo-iptv/play/49095557997f00b59c5b8",
             "group": "Italy"
@@ -481,6 +476,11 @@
             "group": "Italy"
         },
         {
+            "name": "EUROSPORT 5 TIMVISION",
+            "url": "https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79",
+            "group": "Italy"
+        },
+        {
             "name": "EUROSPORT 6 TIMVISION",
             "url": "https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07",
             "group": "Italy"
@@ -493,11 +493,6 @@
         {
             "name": "FANO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/1798700028a88b50c2df9d",
-            "group": "Italy"
-        },
-        {
-            "name": "FASHION TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/3028319308fc52849f3d94",
             "group": "Italy"
         },
         {
@@ -518,6 +513,11 @@
         {
             "name": "FOCUS",
             "url": "https://vavoo.to/vavoo-iptv/play/3439223610a4fec93d907a",
+            "group": "Italy"
+        },
+        {
+            "name": "FOCUS",
+            "url": "https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e",
             "group": "Italy"
         },
         {
@@ -1351,6 +1351,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY NATURE",
+            "url": "https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2",
+            "group": "Italy"
+        },
+        {
             "name": "SKY PRIMAFILA 1",
             "url": "https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231",
             "group": "Italy"
@@ -1403,11 +1408,6 @@
         {
             "name": "SKY PRIMAFILA 17",
             "url": "https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY PRIMAFILA 2",
-            "url": "https://vavoo.to/vavoo-iptv/play/8772007144e30fd3ca161",
             "group": "Italy"
         },
         {
@@ -1502,11 +1502,6 @@
         },
         {
             "name": "SKY SPORT ARENA",
-            "url": "https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY SPORT ARENA",
             "url": "https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6",
             "group": "Italy"
         },
@@ -1546,6 +1541,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY SPORT MOTOGP",
+            "url": "https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce",
+            "group": "Italy"
+        },
+        {
             "name": "SKY SPORT NBA",
             "url": "https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce",
             "group": "Italy"
@@ -1578,6 +1578,11 @@
         {
             "name": "SKY SPORTS F1",
             "url": "https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY SUPER TENNIS",
+            "url": "https://vavoo.to/vavoo-iptv/play/55828211836e421b20575",
             "group": "Italy"
         },
         {
@@ -1673,11 +1678,6 @@
         {
             "name": "SUPER!",
             "url": "https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0",
-            "group": "Italy"
-        },
-        {
-            "name": "SUPERSIX LOMBARDIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282",
             "group": "Italy"
         },
         {
@@ -1938,11 +1938,6 @@
         {
             "name": "TVRS",
             "url": "https://vavoo.to/vavoo-iptv/play/148874663839cdbe9a2d7e",
-            "group": "Italy"
-        },
-        {
-            "name": "UMBRIA TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/1597386407952db649a6ca",
             "group": "Italy"
         },
         {

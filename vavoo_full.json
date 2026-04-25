@@ -501,11 +501,6 @@
             "group": "Italy"
         },
         {
-            "name": "FASHION TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/3028319308fc52849f3d94",
-            "group": "Italy"
-        },
-        {
             "name": "FASHIONTV",
             "url": "https://vavoo.to/vavoo-iptv/play/3255207570b230d786fb10",
             "group": "Italy"
@@ -813,6 +808,11 @@
         {
             "name": "NICK JR",
             "url": "https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065",
+            "group": "Italy"
+        },
+        {
+            "name": "NOVE",
+            "url": "https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada",
             "group": "Italy"
         },
         {
@@ -1381,6 +1381,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY PRIMAFILA 13",
+            "url": "https://vavoo.to/vavoo-iptv/play/310480937323455c2778b9",
+            "group": "Italy"
+        },
+        {
             "name": "SKY PRIMAFILA 14",
             "url": "https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9",
             "group": "Italy"
@@ -1497,11 +1502,6 @@
         },
         {
             "name": "SKY SPORT ARENA",
-            "url": "https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY SPORT ARENA",
             "url": "https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6",
             "group": "Italy"
         },
@@ -1598,6 +1598,11 @@
         {
             "name": "SKY UNO",
             "url": "https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY UNO",
+            "url": "https://vavoo.to/vavoo-iptv/play/32202484989ac14421915",
             "group": "Italy"
         },
         {
@@ -1856,6 +1861,11 @@
             "group": "Italy"
         },
         {
+            "name": "TG NORBA 24",
+            "url": "https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c",
+            "group": "Italy"
+        },
+        {
             "name": "TGCOM 24",
             "url": "https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066",
             "group": "Italy"
@@ -1958,11 +1968,6 @@
         {
             "name": "VCO AZZURRA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/20700707550e841728d807",
-            "group": "Italy"
-        },
-        {
-            "name": "VH1",
-            "url": "https://vavoo.to/vavoo-iptv/play/22376603018e09f8150d84",
             "group": "Italy"
         },
         {

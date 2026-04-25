@@ -546,6 +546,11 @@
             "group": "Italy"
         },
         {
+            "name": "FRANCE 24 (EN)",
+            "url": "https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121",
+            "group": "Italy"
+        },
+        {
             "name": "FRISBEE",
             "url": "https://vavoo.to/vavoo-iptv/play/1995860185ce22f3fae905",
             "group": "Italy"
@@ -808,16 +813,6 @@
         {
             "name": "NICK JR",
             "url": "https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065",
-            "group": "Italy"
-        },
-        {
-            "name": "NICKELODEON",
-            "url": "https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c",
-            "group": "Italy"
-        },
-        {
-            "name": "NOVE",
-            "url": "https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada",
             "group": "Italy"
         },
         {
@@ -1327,11 +1322,6 @@
         },
         {
             "name": "SKY CINEMA UNO",
-            "url": "https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY CINEMA UNO",
             "url": "https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676",
             "group": "Italy"
         },
@@ -1388,11 +1378,6 @@
         {
             "name": "SKY PRIMAFILA 12",
             "url": "https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY PRIMAFILA 13",
-            "url": "https://vavoo.to/vavoo-iptv/play/310480937323455c2778b9",
             "group": "Italy"
         },
         {
@@ -1596,6 +1581,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY SUPER TENNIS",
+            "url": "https://vavoo.to/vavoo-iptv/play/55828211836e421b20575",
+            "group": "Italy"
+        },
+        {
             "name": "SKY TG 24",
             "url": "https://vavoo.to/vavoo-iptv/play/33760313550167605877f1",
             "group": "Italy"
@@ -1608,11 +1598,6 @@
         {
             "name": "SKY UNO",
             "url": "https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY UNO",
-            "url": "https://vavoo.to/vavoo-iptv/play/32202484989ac14421915",
             "group": "Italy"
         },
         {
@@ -1867,7 +1852,7 @@
         },
         {
             "name": "TG NORBA 24",
-            "url": "https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c",
+            "url": "https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a",
             "group": "Italy"
         },
         {

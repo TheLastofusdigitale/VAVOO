@@ -466,8 +466,18 @@
             "group": "Italy"
         },
         {
+            "name": "EUROSPORT 2 TIMVISION",
+            "url": "https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb",
+            "group": "Italy"
+        },
+        {
             "name": "EUROSPORT 4 TIMVISION",
             "url": "https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2",
+            "group": "Italy"
+        },
+        {
+            "name": "EUROSPORT 5 TIMVISION",
+            "url": "https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79",
             "group": "Italy"
         },
         {
@@ -798,11 +808,6 @@
         {
             "name": "NICK JR",
             "url": "https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065",
-            "group": "Italy"
-        },
-        {
-            "name": "NICKELODEON",
-            "url": "https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c",
             "group": "Italy"
         },
         {
@@ -1551,11 +1556,6 @@
             "group": "Italy"
         },
         {
-            "name": "SKY SPORT NBA",
-            "url": "https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346",
-            "group": "Italy"
-        },
-        {
             "name": "SKY SPORT TENNIS",
             "url": "https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6",
             "group": "Italy"
@@ -1608,6 +1608,11 @@
         {
             "name": "SKYSHOWTIME 1",
             "url": "https://vavoo.to/vavoo-iptv/play/287379323134c651595371",
+            "group": "Italy"
+        },
+        {
+            "name": "SPORT ITALIA",
+            "url": "https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82",
             "group": "Italy"
         },
         {

@@ -231,16 +231,6 @@
             "group": "Italy"
         },
         {
-            "name": "CARTOON NETWORK",
-            "url": "https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c",
-            "group": "Italy"
-        },
-        {
-            "name": "CARTOON NETWORK",
-            "url": "https://vavoo.to/vavoo-iptv/play/1289777017c50e3cf3fd74",
-            "group": "Italy"
-        },
-        {
             "name": "CARTOONITO",
             "url": "https://vavoo.to/vavoo-iptv/play/19872204364fe52737bf18",
             "group": "Italy"
@@ -538,6 +528,11 @@
         {
             "name": "FOX",
             "url": "https://vavoo.to/vavoo-iptv/play/56316060941df205a0842",
+            "group": "Italy"
+        },
+        {
+            "name": "FRANCE 24 (EN)",
+            "url": "https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121",
             "group": "Italy"
         },
         {

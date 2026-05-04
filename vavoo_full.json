@@ -587,11 +587,6 @@
         },
         {
             "name": "HISTORY",
-            "url": "https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152",
-            "group": "Italy"
-        },
-        {
-            "name": "HISTORY",
             "url": "https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6",
             "group": "Italy"
         },
@@ -803,6 +798,11 @@
         {
             "name": "NICK JR",
             "url": "https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065",
+            "group": "Italy"
+        },
+        {
+            "name": "NICKELODEON",
+            "url": "https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c",
             "group": "Italy"
         },
         {
@@ -1152,11 +1152,6 @@
         },
         {
             "name": "RTL 102",
-            "url": "https://vavoo.to/vavoo-iptv/play/3168132911491b6a85a6e2",
-            "group": "Italy"
-        },
-        {
-            "name": "RTL 102",
             "url": "https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba",
             "group": "Italy"
         },
@@ -1303,6 +1298,11 @@
         {
             "name": "SKY CINEMA SUSPENSE",
             "url": "https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY CINEMA UNO",
+            "url": "https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22",
             "group": "Italy"
         },
         {
@@ -1498,16 +1498,6 @@
         {
             "name": "SKY SPORT CALCIO",
             "url": "https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY SPORT CALCIO",
-            "url": "https://vavoo.to/vavoo-iptv/play/449990998077a7691828f",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY SPORT F1",
-            "url": "https://vavoo.to/vavoo-iptv/play/42467740561588897497f2",
             "group": "Italy"
         },
         {

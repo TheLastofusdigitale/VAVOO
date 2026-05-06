@@ -971,6 +971,11 @@
             "group": "Italy"
         },
         {
+            "name": "RAI 5",
+            "url": "https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323",
+            "group": "Italy"
+        },
+        {
             "name": "RAI GULP",
             "url": "https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96",
             "group": "Italy"
@@ -1236,11 +1241,6 @@
             "group": "Italy"
         },
         {
-            "name": "SKY CINEMA ACTION",
-            "url": "https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62",
-            "group": "Italy"
-        },
-        {
             "name": "SKY CINEMA ACTION (BACKUP)",
             "url": "https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6",
             "group": "Italy"
@@ -1286,18 +1286,8 @@
             "group": "Italy"
         },
         {
-            "name": "SKY CINEMA FAMILY",
-            "url": "https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a",
-            "group": "Italy"
-        },
-        {
             "name": "SKY CINEMA ROMANCE",
             "url": "https://vavoo.to/vavoo-iptv/play/2890008905a6ae9fa14809",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY CINEMA ROMANCE",
-            "url": "https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f",
             "group": "Italy"
         },
         {

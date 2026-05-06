@@ -146,11 +146,6 @@
             "group": "Italy"
         },
         {
-            "name": "BOOMERANG",
-            "url": "https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f",
-            "group": "Italy"
-        },
-        {
             "name": "BYOBLU",
             "url": "https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d",
             "group": "Italy"
@@ -213,11 +208,6 @@
         {
             "name": "CANALE 8",
             "url": "https://vavoo.to/vavoo-iptv/play/2749478718a361866152ca",
-            "group": "Italy"
-        },
-        {
-            "name": "CANALE 8",
-            "url": "https://vavoo.to/vavoo-iptv/play/31075009959a8de9232b11",
             "group": "Italy"
         },
         {
@@ -338,11 +328,6 @@
         {
             "name": "DEEJAY TV",
             "url": "https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319",
-            "group": "Italy"
-        },
-        {
-            "name": "DISCOVERY CHANNEL",
-            "url": "https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1",
             "group": "Italy"
         },
         {
@@ -543,11 +528,6 @@
         {
             "name": "FRISBEE",
             "url": "https://vavoo.to/vavoo-iptv/play/1995860185ce22f3fae905",
-            "group": "Italy"
-        },
-        {
-            "name": "GAMBERO ROSSO",
-            "url": "https://vavoo.to/vavoo-iptv/play/2481284739a17519532b56",
             "group": "Italy"
         },
         {
@@ -1181,11 +1161,6 @@
             "group": "Italy"
         },
         {
-            "name": "RTR 99 TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/1621632780775ff4ee8846",
-            "group": "Italy"
-        },
-        {
             "name": "RTTR",
             "url": "https://vavoo.to/vavoo-iptv/play/3799362189218b541a9c76",
             "group": "Italy"
@@ -1241,6 +1216,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY CINEMA ACTION",
+            "url": "https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62",
+            "group": "Italy"
+        },
+        {
             "name": "SKY CINEMA ACTION (BACKUP)",
             "url": "https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6",
             "group": "Italy"
@@ -1253,11 +1233,6 @@
         {
             "name": "SKY CINEMA COLLECTION",
             "url": "https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY CINEMA COMEDY",
-            "url": "https://vavoo.to/vavoo-iptv/play/500203271d58941028e95",
             "group": "Italy"
         },
         {
@@ -1286,8 +1261,18 @@
             "group": "Italy"
         },
         {
+            "name": "SKY CINEMA FAMILY",
+            "url": "https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a",
+            "group": "Italy"
+        },
+        {
             "name": "SKY CINEMA ROMANCE",
             "url": "https://vavoo.to/vavoo-iptv/play/2890008905a6ae9fa14809",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY CINEMA ROMANCE",
+            "url": "https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f",
             "group": "Italy"
         },
         {
@@ -1486,23 +1471,8 @@
             "group": "Italy"
         },
         {
-            "name": "SKY SPORT ARENA",
-            "url": "https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY SPORT ARENA",
-            "url": "https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6",
-            "group": "Italy"
-        },
-        {
             "name": "SKY SPORT CALCIO",
             "url": "https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY SPORT CALCIO",
-            "url": "https://vavoo.to/vavoo-iptv/play/449990998077a7691828f",
             "group": "Italy"
         },
         {

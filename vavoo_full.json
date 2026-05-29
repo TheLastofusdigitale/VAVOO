@@ -16,6 +16,11 @@
             "group": "Italy"
         },
         {
+            "name": "27 TWENTY SEVEN",
+            "url": "https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3",
+            "group": "Italy"
+        },
+        {
             "name": "27 TWENTYSEVEN",
             "url": "https://vavoo.to/vavoo-iptv/play/80896559d4a6e09d36f1",
             "group": "Italy"
@@ -258,11 +263,6 @@
         {
             "name": "CIELO",
             "url": "https://vavoo.to/vavoo-iptv/play/3743894403dc7e6005c138",
-            "group": "Italy"
-        },
-        {
-            "name": "CINE 34",
-            "url": "https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f",
             "group": "Italy"
         },
         {
@@ -736,6 +736,11 @@
             "group": "Italy"
         },
         {
+            "name": "MEDIASET 20",
+            "url": "https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1",
+            "group": "Italy"
+        },
+        {
             "name": "MEDIASET EXTRA",
             "url": "https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e",
             "group": "Italy"
@@ -788,11 +793,6 @@
         {
             "name": "NICK JR",
             "url": "https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065",
-            "group": "Italy"
-        },
-        {
-            "name": "NICKELODEON",
-            "url": "https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c",
             "group": "Italy"
         },
         {
@@ -896,11 +896,6 @@
             "group": "Italy"
         },
         {
-            "name": "RADIO CAPITAL",
-            "url": "https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d",
-            "group": "Italy"
-        },
-        {
             "name": "RADIO FRECCIA",
             "url": "https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3",
             "group": "Italy"
@@ -923,11 +918,6 @@
         {
             "name": "RAI 2",
             "url": "https://vavoo.to/vavoo-iptv/play/1939210164cf0608420d67",
-            "group": "Italy"
-        },
-        {
-            "name": "RAI 2",
-            "url": "https://vavoo.to/vavoo-iptv/play/246253359a81d94887441",
             "group": "Italy"
         },
         {
@@ -1083,11 +1073,6 @@
         {
             "name": "REI TV",
             "url": "https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6",
-            "group": "Italy"
-        },
-        {
-            "name": "RETE 4",
-            "url": "https://vavoo.to/vavoo-iptv/play/4198218214cee07ebbc292",
             "group": "Italy"
         },
         {
@@ -1516,6 +1501,16 @@
             "group": "Italy"
         },
         {
+            "name": "SKY SPORT CALCIO",
+            "url": "https://vavoo.to/vavoo-iptv/play/449990998077a7691828f",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY SPORT F1",
+            "url": "https://vavoo.to/vavoo-iptv/play/42467740561588897497f2",
+            "group": "Italy"
+        },
+        {
             "name": "SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]",
             "url": "https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae",
             "group": "Italy"
@@ -1703,11 +1698,6 @@
         {
             "name": "TELE LIGURIA SUD",
             "url": "https://vavoo.to/vavoo-iptv/play/87479718111853618b3cd",
-            "group": "Italy"
-        },
-        {
-            "name": "TELE PAVIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/6164833177424547eff1f",
             "group": "Italy"
         },
         {
@@ -1978,11 +1968,6 @@
         {
             "name": "VIDEOLINA",
             "url": "https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f",
-            "group": "Italy"
-        },
-        {
-            "name": "VIDEOSTAR TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86",
             "group": "Italy"
         },
         {

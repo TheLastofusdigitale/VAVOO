@@ -11,6 +11,11 @@
             "group": "Italy"
         },
         {
+            "name": "20 MEDIASET",
+            "url": "https://vavoo.to/vavoo-iptv/play/12303381856673f2a33deb",
+            "group": "Italy"
+        },
+        {
             "name": "27 TWENTY SEVEN",
             "url": "https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3",
             "group": "Italy"
@@ -261,6 +266,11 @@
             "group": "Italy"
         },
         {
+            "name": "CINE 34",
+            "url": "https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f",
+            "group": "Italy"
+        },
+        {
             "name": "CINE 34 MEDIASET",
             "url": "https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38",
             "group": "Italy"
@@ -406,11 +416,6 @@
             "group": "Italy"
         },
         {
-            "name": "ÈTV RETE 7",
-            "url": "https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb",
-            "group": "Italy"
-        },
-        {
             "name": "EURO INDIE MUSIC CHART TV",
             "url": "https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e",
             "group": "Italy"
@@ -446,8 +451,18 @@
             "group": "Italy"
         },
         {
+            "name": "EUROSPORT 2 TIMVISION",
+            "url": "https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb",
+            "group": "Italy"
+        },
+        {
             "name": "EUROSPORT 4 TIMVISION",
             "url": "https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2",
+            "group": "Italy"
+        },
+        {
+            "name": "EUROSPORT 5 TIMVISION",
+            "url": "https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79",
             "group": "Italy"
         },
         {
@@ -508,6 +523,11 @@
         {
             "name": "FOX",
             "url": "https://vavoo.to/vavoo-iptv/play/56316060941df205a0842",
+            "group": "Italy"
+        },
+        {
+            "name": "FRISBEE",
+            "url": "https://vavoo.to/vavoo-iptv/play/1995860185ce22f3fae905",
             "group": "Italy"
         },
         {
@@ -598,11 +618,6 @@
         {
             "name": "ITALIAN FISHING TV",
             "url": "https://vavoo.to/vavoo-iptv/play/4235410936b108b39c28d1",
-            "group": "Italy"
-        },
-        {
-            "name": "ITALIAN FISHING TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68",
             "group": "Italy"
         },
         {
@@ -1501,8 +1516,8 @@
             "group": "Italy"
         },
         {
-            "name": "SKY SPORT F1",
-            "url": "https://vavoo.to/vavoo-iptv/play/42467740561588897497f2",
+            "name": "SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]",
+            "url": "https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae",
             "group": "Italy"
         },
         {
@@ -1873,6 +1888,11 @@
         {
             "name": "TV 2000",
             "url": "https://vavoo.to/vavoo-iptv/play/1949044924a6c217960c23",
+            "group": "Italy"
+        },
+        {
+            "name": "TV 8",
+            "url": "https://vavoo.to/vavoo-iptv/play/40383657201f43ce81681d",
             "group": "Italy"
         },
         {

@@ -401,11 +401,6 @@
             "group": "Italy"
         },
         {
-            "name": "ESPANSIONE TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/53948441989c19aba3352",
-            "group": "Italy"
-        },
-        {
             "name": "ESPERIA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/3525104604d4e472fa9bd7",
             "group": "Italy"
@@ -466,11 +461,6 @@
             "group": "Italy"
         },
         {
-            "name": "EUROSPORT 2 TIMVISION",
-            "url": "https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb",
-            "group": "Italy"
-        },
-        {
             "name": "EUROSPORT 4 TIMVISION",
             "url": "https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2",
             "group": "Italy"
@@ -488,6 +478,11 @@
         {
             "name": "EXTRA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/33656973896c0d65694135",
+            "group": "Italy"
+        },
+        {
+            "name": "FANO TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/1798700028a88b50c2df9d",
             "group": "Italy"
         },
         {
@@ -793,11 +788,6 @@
         {
             "name": "NAT GEO",
             "url": "https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe",
-            "group": "Italy"
-        },
-        {
-            "name": "NAT GEO WILD",
-            "url": "https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e",
             "group": "Italy"
         },
         {
@@ -1237,6 +1227,11 @@
         },
         {
             "name": "SKY ATLANTIC",
+            "url": "https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY ATLANTIC",
             "url": "https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7",
             "group": "Italy"
         },
@@ -1318,11 +1313,6 @@
         {
             "name": "SKY CINEMA SUSPENSE",
             "url": "https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY CINEMA UNO",
-            "url": "https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22",
             "group": "Italy"
         },
         {

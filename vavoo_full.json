@@ -86,11 +86,6 @@
             "group": "Italy"
         },
         {
-            "name": "BABY TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/39385011257cd02ab803dc",
-            "group": "Italy"
-        },
-        {
             "name": "BBC TOP GEAR ITALY",
             "url": "https://vavoo.to/vavoo-iptv/play/2330946937dd53b634ff71",
             "group": "Italy"
@@ -578,6 +573,11 @@
         {
             "name": "HGTV",
             "url": "https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e",
+            "group": "Italy"
+        },
+        {
+            "name": "HISTORY",
+            "url": "https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152",
             "group": "Italy"
         },
         {
@@ -1396,6 +1396,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY PRIMAFILA 17",
+            "url": "https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d",
+            "group": "Italy"
+        },
+        {
             "name": "SKY PRIMAFILA 2",
             "url": "https://vavoo.to/vavoo-iptv/play/8772007144e30fd3ca161",
             "group": "Italy"
@@ -1492,12 +1497,12 @@
         },
         {
             "name": "SKY SPORT ARENA",
-            "url": "https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3",
+            "url": "https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6",
             "group": "Italy"
         },
         {
-            "name": "SKY SPORT ARENA",
-            "url": "https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6",
+            "name": "SKY SPORT CALCIO",
+            "url": "https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6",
             "group": "Italy"
         },
         {
@@ -1733,6 +1738,11 @@
         {
             "name": "TELEBELLUNO",
             "url": "https://vavoo.to/vavoo-iptv/play/3696520354663b7a8a1b38",
+            "group": "Italy"
+        },
+        {
+            "name": "TELEBOARIO",
+            "url": "https://vavoo.to/vavoo-iptv/play/338336420207ccf0ade90b",
             "group": "Italy"
         },
         {

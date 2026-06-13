@@ -41,6 +41,11 @@
             "group": "Italy"
         },
         {
+            "name": "A3",
+            "url": "https://vavoo.to/vavoo-iptv/play/445158856541438cd842a",
+            "group": "Italy"
+        },
+        {
             "name": "ACI SPORT TV",
             "url": "https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1",
             "group": "Italy"
@@ -96,6 +101,11 @@
             "group": "Italy"
         },
         {
+            "name": "BELLLA & MONELLA TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae",
+            "group": "Italy"
+        },
+        {
             "name": "BERGAMO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870",
             "group": "Italy"
@@ -136,13 +146,13 @@
             "group": "Italy"
         },
         {
-            "name": "BYOBLU",
-            "url": "https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d",
+            "name": "CACCIA",
+            "url": "https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca",
             "group": "Italy"
         },
         {
-            "name": "CACCIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca",
+            "name": "CACCIA E PESCA",
+            "url": "https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e",
             "group": "Italy"
         },
         {
@@ -263,11 +273,6 @@
         {
             "name": "CINE 34 MEDIASET",
             "url": "https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38",
-            "group": "Italy"
-        },
-        {
-            "name": "CLASSICA",
-            "url": "https://vavoo.to/vavoo-iptv/play/640609226bada55274ff",
             "group": "Italy"
         },
         {
@@ -461,11 +466,6 @@
             "group": "Italy"
         },
         {
-            "name": "EUROSPORT 5 TIMVISION",
-            "url": "https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79",
-            "group": "Italy"
-        },
-        {
             "name": "EUROSPORT 6 TIMVISION",
             "url": "https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07",
             "group": "Italy"
@@ -573,11 +573,6 @@
         {
             "name": "HGTV",
             "url": "https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e",
-            "group": "Italy"
-        },
-        {
-            "name": "HISTORY",
-            "url": "https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152",
             "group": "Italy"
         },
         {
@@ -1818,6 +1813,11 @@
         {
             "name": "TELEQUATTRO",
             "url": "https://vavoo.to/vavoo-iptv/play/10839846696ddb422bcd88",
+            "group": "Italy"
+        },
+        {
+            "name": "TELERAMA",
+            "url": "https://vavoo.to/vavoo-iptv/play/4017608910fce4d0302c20",
             "group": "Italy"
         },
         {

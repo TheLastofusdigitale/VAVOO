@@ -401,11 +401,6 @@
             "group": "Italy"
         },
         {
-            "name": "EB PEPPA PIG",
-            "url": "https://vavoo.to/vavoo-iptv/play/5926311786acc45786c16",
-            "group": "Italy"
-        },
-        {
             "name": "ELIVE TV BRESCIA",
             "url": "https://vavoo.to/vavoo-iptv/play/1521821490a62d4e3205da",
             "group": "Italy"
@@ -473,6 +468,11 @@
         {
             "name": "EUROSPORT 1",
             "url": "https://vavoo.to/vavoo-iptv/play/34480753177564a146da63",
+            "group": "Italy"
+        },
+        {
+            "name": "EUROSPORT 2",
+            "url": "https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27",
             "group": "Italy"
         },
         {
@@ -682,6 +682,11 @@
         },
         {
             "name": "KISS KISS",
+            "url": "https://vavoo.to/vavoo-iptv/play/950030926076b5f56ce77",
+            "group": "Italy"
+        },
+        {
+            "name": "KISS KISS",
             "url": "https://vavoo.to/vavoo-iptv/play/38157267494d3060cf955b",
             "group": "Italy"
         },
@@ -768,11 +773,6 @@
         {
             "name": "MEDIASET 1",
             "url": "https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5",
-            "group": "Italy"
-        },
-        {
-            "name": "MEDIASET 20",
-            "url": "https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1",
             "group": "Italy"
         },
         {
@@ -1101,11 +1101,6 @@
             "group": "Italy"
         },
         {
-            "name": "RAKUTEN TV ASIAN CINEMA ITALY",
-            "url": "https://vavoo.to/vavoo-iptv/play/32145975548e7b69c138c5",
-            "group": "Italy"
-        },
-        {
             "name": "RAKUTEN TV COMEDY MOVIES ITALY",
             "url": "https://vavoo.to/vavoo-iptv/play/1810817472eb83e2609e85",
             "group": "Italy"
@@ -1128,6 +1123,11 @@
         {
             "name": "RAKUTEN TV ROMANCE MOVIES ITALY",
             "url": "https://vavoo.to/vavoo-iptv/play/3147240888262c9b3a94a8",
+            "group": "Italy"
+        },
+        {
+            "name": "RAKUTEN TV SCI-FI ITALY",
+            "url": "https://vavoo.to/vavoo-iptv/play/9327556059b5f458e755",
             "group": "Italy"
         },
         {
@@ -1402,6 +1402,11 @@
         },
         {
             "name": "SKY CINEMA UNO +24",
+            "url": "https://vavoo.to/vavoo-iptv/play/2236517134d5e218f6528e",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY CINEMA UNO +24",
             "url": "https://vavoo.to/vavoo-iptv/play/16998765309700e7076450",
             "group": "Italy"
         },
@@ -1631,6 +1636,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY SPORT SERIE A",
+            "url": "https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc",
+            "group": "Italy"
+        },
+        {
             "name": "SKY SPORT TENNIS",
             "url": "https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6",
             "group": "Italy"
@@ -1843,11 +1853,6 @@
         {
             "name": "TELECOLOR",
             "url": "https://vavoo.to/vavoo-iptv/play/1133239022f5df6ba1ba0a",
-            "group": "Italy"
-        },
-        {
-            "name": "TELEFOGGIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/2365107871d881ed0d7a81",
             "group": "Italy"
         },
         {

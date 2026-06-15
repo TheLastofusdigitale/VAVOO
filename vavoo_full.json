@@ -31,11 +31,6 @@
             "group": "Italy"
         },
         {
-            "name": "7 YOU & ME",
-            "url": "https://vavoo.to/vavoo-iptv/play/178775175831e62385f371",
-            "group": "Italy"
-        },
-        {
             "name": "70-80",
             "url": "https://vavoo.to/vavoo-iptv/play/3701871205057c15adedda",
             "group": "Italy"
@@ -158,6 +153,11 @@
         {
             "name": "BYOBLU",
             "url": "https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d",
+            "group": "Italy"
+        },
+        {
+            "name": "CACCIA",
+            "url": "https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca",
             "group": "Italy"
         },
         {
@@ -677,6 +677,11 @@
         },
         {
             "name": "KISS KISS",
+            "url": "https://vavoo.to/vavoo-iptv/play/950030926076b5f56ce77",
+            "group": "Italy"
+        },
+        {
+            "name": "KISS KISS",
             "url": "https://vavoo.to/vavoo-iptv/play/38157267494d3060cf955b",
             "group": "Italy"
         },
@@ -1121,11 +1126,6 @@
             "group": "Italy"
         },
         {
-            "name": "RAKUTEN TV ROMANCE MOVIES ITALY",
-            "url": "https://vavoo.to/vavoo-iptv/play/3147240888262c9b3a94a8",
-            "group": "Italy"
-        },
-        {
             "name": "RAKUTEN TV SCI-FI ITALY",
             "url": "https://vavoo.to/vavoo-iptv/play/9327556059b5f458e755",
             "group": "Italy"
@@ -1218,6 +1218,11 @@
         {
             "name": "RSI LA 1",
             "url": "https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610",
+            "group": "Italy"
+        },
+        {
+            "name": "RSI LA 2",
+            "url": "https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37",
             "group": "Italy"
         },
         {
@@ -1483,6 +1488,16 @@
         {
             "name": "SKY PRIMAFILA 2",
             "url": "https://vavoo.to/vavoo-iptv/play/525374356eb78c097e6a2",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY PRIMAFILA 3",
+            "url": "https://vavoo.to/vavoo-iptv/play/15369343494e510eea4a0",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY PRIMAFILA 3",
+            "url": "https://vavoo.to/vavoo-iptv/play/573618724778189abe38c",
             "group": "Italy"
         },
         {
@@ -1923,11 +1938,6 @@
         {
             "name": "TELEROMAGNA",
             "url": "https://vavoo.to/vavoo-iptv/play/279439224488ada9f3a1b3",
-            "group": "Italy"
-        },
-        {
-            "name": "TELESPAZIO TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/38676564387b48bdb05ad",
             "group": "Italy"
         },
         {

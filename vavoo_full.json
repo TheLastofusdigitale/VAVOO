@@ -341,6 +341,16 @@
             "group": "Italy"
         },
         {
+            "name": "DISCOVERY CHANNEL",
+            "url": "https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1",
+            "group": "Italy"
+        },
+        {
+            "name": "DISCOVERY CHANNEL",
+            "url": "https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358",
+            "group": "Italy"
+        },
+        {
             "name": "DISCOVERY FOCUS",
             "url": "https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331",
             "group": "Italy"
@@ -378,21 +388,6 @@
         {
             "name": "EB GOMORRA STAGIONE 2",
             "url": "https://vavoo.to/vavoo-iptv/play/25733582852d76b89bd127",
-            "group": "Italy"
-        },
-        {
-            "name": "EB GOMORRA STAGIONE 3",
-            "url": "https://vavoo.to/vavoo-iptv/play/2751626621b15a6444a03e",
-            "group": "Italy"
-        },
-        {
-            "name": "EB GOMORRA STAGIONE 4",
-            "url": "https://vavoo.to/vavoo-iptv/play/371368301961011709693",
-            "group": "Italy"
-        },
-        {
-            "name": "EB PEPPA PIG",
-            "url": "https://vavoo.to/vavoo-iptv/play/5926311786acc45786c16",
             "group": "Italy"
         },
         {
@@ -451,6 +446,11 @@
             "group": "Italy"
         },
         {
+            "name": "EURONEWS",
+            "url": "https://vavoo.to/vavoo-iptv/play/49095557997f00b59c5b8",
+            "group": "Italy"
+        },
+        {
             "name": "EUROSPORT 1",
             "url": "https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d",
             "group": "Italy"
@@ -468,6 +468,11 @@
         {
             "name": "EUROSPORT 2",
             "url": "https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e",
+            "group": "Italy"
+        },
+        {
+            "name": "EUROSPORT 4 TIMVISION",
+            "url": "https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2",
             "group": "Italy"
         },
         {
@@ -783,6 +788,11 @@
         {
             "name": "MEDIASET ITALIA 2",
             "url": "https://vavoo.to/vavoo-iptv/play/3538009430947511be2991",
+            "group": "Italy"
+        },
+        {
+            "name": "MILAN TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47",
             "group": "Italy"
         },
         {
@@ -1212,17 +1222,17 @@
         },
         {
             "name": "RSI LA 2",
+            "url": "https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37",
+            "group": "Italy"
+        },
+        {
+            "name": "RSI LA 2",
             "url": "https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f",
             "group": "Italy"
         },
         {
             "name": "RTC TELECALABRIA",
             "url": "https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc",
-            "group": "Italy"
-        },
-        {
-            "name": "RTL 102",
-            "url": "https://vavoo.to/vavoo-iptv/play/3168132911491b6a85a6e2",
             "group": "Italy"
         },
         {
@@ -1581,6 +1591,16 @@
             "group": "Italy"
         },
         {
+            "name": "SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]",
+            "url": "https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY SPORT GOLF",
+            "url": "https://vavoo.to/vavoo-iptv/play/729945219d6146597896a",
+            "group": "Italy"
+        },
+        {
             "name": "SKY SPORT MAX",
             "url": "https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb",
             "group": "Italy"
@@ -1663,11 +1683,6 @@
         {
             "name": "SKYSHOWTIME 1",
             "url": "https://vavoo.to/vavoo-iptv/play/287379323134c651595371",
-            "group": "Italy"
-        },
-        {
-            "name": "SPORT ITALIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82",
             "group": "Italy"
         },
         {

@@ -71,11 +71,6 @@
             "group": "Italy"
         },
         {
-            "name": "ANTENNA 2",
-            "url": "https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7",
-            "group": "Italy"
-        },
-        {
             "name": "ARANCIA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/1792428355edae51bf7896",
             "group": "Italy"
@@ -516,11 +511,6 @@
             "group": "Italy"
         },
         {
-            "name": "FOX",
-            "url": "https://vavoo.to/vavoo-iptv/play/56316060941df205a0842",
-            "group": "Italy"
-        },
-        {
             "name": "FRANCE 24 (EN)",
             "url": "https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121",
             "group": "Italy"
@@ -603,11 +593,6 @@
         {
             "name": "IMAS TV",
             "url": "https://vavoo.to/vavoo-iptv/play/20730689949792c706f380",
-            "group": "Italy"
-        },
-        {
-            "name": "INTER TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21",
             "group": "Italy"
         },
         {
@@ -1146,11 +1131,6 @@
             "group": "Italy"
         },
         {
-            "name": "REI TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6",
-            "group": "Italy"
-        },
-        {
             "name": "RETE 4",
             "url": "https://vavoo.to/vavoo-iptv/play/4198218214cee07ebbc292",
             "group": "Italy"
@@ -1562,11 +1542,6 @@
         },
         {
             "name": "SKY SPORT ARENA",
-            "url": "https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY SPORT ARENA",
             "url": "https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6",
             "group": "Italy"
         },
@@ -1663,11 +1638,6 @@
         {
             "name": "SKY TG 24",
             "url": "https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY UNO",
-            "url": "https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255",
             "group": "Italy"
         },
         {
@@ -1986,11 +1956,6 @@
             "group": "Italy"
         },
         {
-            "name": "TV LUNA",
-            "url": "https://vavoo.to/vavoo-iptv/play/37897066429b9ef63bb97c",
-            "group": "Italy"
-        },
-        {
             "name": "TV QUI",
             "url": "https://vavoo.to/vavoo-iptv/play/220293751865cbdd1866be",
             "group": "Italy"
@@ -2058,6 +2023,11 @@
         {
             "name": "VIDEOLINA",
             "url": "https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f",
+            "group": "Italy"
+        },
+        {
+            "name": "VIDEOSTAR TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86",
             "group": "Italy"
         },
         {

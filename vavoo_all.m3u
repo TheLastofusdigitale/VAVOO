@@ -21,8 +21,6 @@ https://vavoo.to/vavoo-iptv/play/445158856541438cd842a
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
 #EXTINF:-1 group-title="Italy",ADESSO TV
 https://vavoo.to/vavoo-iptv/play/15558564102ab0cc0f61cf
-#EXTINF:-1 group-title="Italy",ALICE
-https://vavoo.to/vavoo-iptv/play/3092239866ed8b329f2cdf
 #EXTINF:-1 group-title="Italy",ALMA TV
 https://vavoo.to/vavoo-iptv/play/41311137232a677f05622a
 #EXTINF:-1 group-title="Italy",ALTO ADIGE TV
@@ -191,6 +189,8 @@ https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07
 https://vavoo.to/vavoo-iptv/play/33656973896c0d65694135
 #EXTINF:-1 group-title="Italy",FANO TV
 https://vavoo.to/vavoo-iptv/play/1798700028a88b50c2df9d
+#EXTINF:-1 group-title="Italy",FASHION TV
+https://vavoo.to/vavoo-iptv/play/3028319308fc52849f3d94
 #EXTINF:-1 group-title="Italy",FASHIONTV
 https://vavoo.to/vavoo-iptv/play/3255207570b230d786fb10
 #EXTINF:-1 group-title="Italy",FM ITALIA
@@ -429,6 +429,10 @@ https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTINF:-1 group-title="Italy",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
+#EXTINF:-1 group-title="Italy",RAKUTEN TV ACTION MOVIES ITALY
+https://vavoo.to/vavoo-iptv/play/6057450468326830cabb4
+#EXTINF:-1 group-title="Italy",RAKUTEN TV ASIAN CINEMA ITALY
+https://vavoo.to/vavoo-iptv/play/32145975548e7b69c138c5
 #EXTINF:-1 group-title="Italy",RAKUTEN TV COMEDY MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/1810817472eb83e2609e85
 #EXTINF:-1 group-title="Italy",RAKUTEN TV CRIME SERIES ITALY
@@ -437,6 +441,8 @@ https://vavoo.to/vavoo-iptv/play/2528607377858e5f38ad32
 https://vavoo.to/vavoo-iptv/play/3709565277575dc0e24113
 #EXTINF:-1 group-title="Italy",RAKUTEN TV FAMILY MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/37898788895c371a08a3b2
+#EXTINF:-1 group-title="Italy",RAKUTEN TV ROMANCE MOVIES ITALY
+https://vavoo.to/vavoo-iptv/play/3147240888262c9b3a94a8
 #EXTINF:-1 group-title="Italy",RAKUTEN TV SCI-FI ITALY
 https://vavoo.to/vavoo-iptv/play/9327556059b5f458e755
 #EXTINF:-1 group-title="Italy",RAKUTEN TV TOP MOVIES ITALY

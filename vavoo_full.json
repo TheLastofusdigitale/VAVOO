@@ -56,11 +56,6 @@
             "group": "Italy"
         },
         {
-            "name": "ALICE",
-            "url": "https://vavoo.to/vavoo-iptv/play/3092239866ed8b329f2cdf",
-            "group": "Italy"
-        },
-        {
             "name": "ALMA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/41311137232a677f05622a",
             "group": "Italy"
@@ -478,6 +473,11 @@
         {
             "name": "FANO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/1798700028a88b50c2df9d",
+            "group": "Italy"
+        },
+        {
+            "name": "FASHION TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/3028319308fc52849f3d94",
             "group": "Italy"
         },
         {
@@ -1076,6 +1076,16 @@
             "group": "Italy"
         },
         {
+            "name": "RAKUTEN TV ACTION MOVIES ITALY",
+            "url": "https://vavoo.to/vavoo-iptv/play/6057450468326830cabb4",
+            "group": "Italy"
+        },
+        {
+            "name": "RAKUTEN TV ASIAN CINEMA ITALY",
+            "url": "https://vavoo.to/vavoo-iptv/play/32145975548e7b69c138c5",
+            "group": "Italy"
+        },
+        {
             "name": "RAKUTEN TV COMEDY MOVIES ITALY",
             "url": "https://vavoo.to/vavoo-iptv/play/1810817472eb83e2609e85",
             "group": "Italy"
@@ -1093,6 +1103,11 @@
         {
             "name": "RAKUTEN TV FAMILY MOVIES ITALY",
             "url": "https://vavoo.to/vavoo-iptv/play/37898788895c371a08a3b2",
+            "group": "Italy"
+        },
+        {
+            "name": "RAKUTEN TV ROMANCE MOVIES ITALY",
+            "url": "https://vavoo.to/vavoo-iptv/play/3147240888262c9b3a94a8",
             "group": "Italy"
         },
         {

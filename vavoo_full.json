@@ -376,11 +376,6 @@
             "group": "Italy"
         },
         {
-            "name": "DMAX",
-            "url": "https://vavoo.to/vavoo-iptv/play/3803638765756268d23edc",
-            "group": "Italy"
-        },
-        {
             "name": "ELIVE TV BRESCIA",
             "url": "https://vavoo.to/vavoo-iptv/play/1521821490a62d4e3205da",
             "group": "Italy"
@@ -433,11 +428,6 @@
         {
             "name": "EURO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/422225837740225c1416e8",
-            "group": "Italy"
-        },
-        {
-            "name": "EURONEWS",
-            "url": "https://vavoo.to/vavoo-iptv/play/49095557997f00b59c5b8",
             "group": "Italy"
         },
         {
@@ -593,6 +583,11 @@
         {
             "name": "ICARO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/2392139008947764078821",
+            "group": "Italy"
+        },
+        {
+            "name": "IMAS TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/20730689949792c706f380",
             "group": "Italy"
         },
         {
@@ -803,6 +798,11 @@
         {
             "name": "NOVE",
             "url": "https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada",
+            "group": "Italy"
+        },
+        {
+            "name": "OL3 RADIO",
+            "url": "https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5",
             "group": "Italy"
         },
         {
@@ -1086,6 +1086,11 @@
             "group": "Italy"
         },
         {
+            "name": "RAKUTEN TV FAMILY MOVIES ITALY",
+            "url": "https://vavoo.to/vavoo-iptv/play/37898788895c371a08a3b2",
+            "group": "Italy"
+        },
+        {
             "name": "RAKUTEN TV ROMANCE MOVIES ITALY",
             "url": "https://vavoo.to/vavoo-iptv/play/3147240888262c9b3a94a8",
             "group": "Italy"
@@ -1148,6 +1153,11 @@
         {
             "name": "RETE ORO",
             "url": "https://vavoo.to/vavoo-iptv/play/3351863213ae83540f4e1e",
+            "group": "Italy"
+        },
+        {
+            "name": "RETE SOLE",
+            "url": "https://vavoo.to/vavoo-iptv/play/36929275131676477efa1e",
             "group": "Italy"
         },
         {
@@ -1423,6 +1433,11 @@
         {
             "name": "SKY PRIMAFILA 14",
             "url": "https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY PRIMAFILA 15",
+            "url": "https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5",
             "group": "Italy"
         },
         {

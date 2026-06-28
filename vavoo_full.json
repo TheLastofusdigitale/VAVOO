@@ -156,11 +156,6 @@
             "group": "Italy"
         },
         {
-            "name": "BYOBLU",
-            "url": "https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d",
-            "group": "Italy"
-        },
-        {
             "name": "CACCIA",
             "url": "https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca",
             "group": "Italy"
@@ -188,11 +183,6 @@
         {
             "name": "CANALE 21 CAMPANIA",
             "url": "https://vavoo.to/vavoo-iptv/play/390600788675c13850cd70",
-            "group": "Italy"
-        },
-        {
-            "name": "CANALE 21 EXTRA",
-            "url": "https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4",
             "group": "Italy"
         },
         {
@@ -636,16 +626,6 @@
             "group": "Italy"
         },
         {
-            "name": "K2",
-            "url": "https://vavoo.to/vavoo-iptv/play/22557243183ffd471ea8ec",
-            "group": "Italy"
-        },
-        {
-            "name": "K2",
-            "url": "https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4",
-            "group": "Italy"
-        },
-        {
             "name": "KISS KISS",
             "url": "https://vavoo.to/vavoo-iptv/play/950030926076b5f56ce77",
             "group": "Italy"
@@ -826,6 +806,11 @@
             "group": "Italy"
         },
         {
+            "name": "ORLER TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/3471319012d308ec0dc636",
+            "group": "Italy"
+        },
+        {
             "name": "PADRE PIO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/43501686619a1a53c7d14",
             "group": "Italy"
@@ -981,11 +966,6 @@
             "group": "Italy"
         },
         {
-            "name": "RAI GULP",
-            "url": "https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f",
-            "group": "Italy"
-        },
-        {
             "name": "RAI ITALIA",
             "url": "https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0",
             "group": "Italy"
@@ -998,6 +978,11 @@
         {
             "name": "RAI MOVIE",
             "url": "https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce",
+            "group": "Italy"
+        },
+        {
+            "name": "RAI NEWS 24",
+            "url": "https://vavoo.to/vavoo-iptv/play/22729239721838600694f7",
             "group": "Italy"
         },
         {
@@ -1153,11 +1138,6 @@
         {
             "name": "RETE ORO",
             "url": "https://vavoo.to/vavoo-iptv/play/3351863213ae83540f4e1e",
-            "group": "Italy"
-        },
-        {
-            "name": "RETE SOLE",
-            "url": "https://vavoo.to/vavoo-iptv/play/36929275131676477efa1e",
             "group": "Italy"
         },
         {
@@ -1552,11 +1532,6 @@
         },
         {
             "name": "SKY SPORT ARENA",
-            "url": "https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY SPORT ARENA",
             "url": "https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6",
             "group": "Italy"
         },
@@ -1801,11 +1776,6 @@
             "group": "Italy"
         },
         {
-            "name": "TELEARTE",
-            "url": "https://vavoo.to/vavoo-iptv/play/2586615238c67a91af5daa",
-            "group": "Italy"
-        },
-        {
             "name": "TELEBELLUNO",
             "url": "https://vavoo.to/vavoo-iptv/play/3696520354663b7a8a1b38",
             "group": "Italy"
@@ -1846,11 +1816,6 @@
             "group": "Italy"
         },
         {
-            "name": "TELEMOLISE",
-            "url": "https://vavoo.to/vavoo-iptv/play/780186974728e73711da8",
-            "group": "Italy"
-        },
-        {
             "name": "TELENORD",
             "url": "https://vavoo.to/vavoo-iptv/play/2923215049219f1039e542",
             "group": "Italy"
@@ -1883,6 +1848,11 @@
         {
             "name": "TELEQUATTRO",
             "url": "https://vavoo.to/vavoo-iptv/play/10839846696ddb422bcd88",
+            "group": "Italy"
+        },
+        {
+            "name": "TELERAMA",
+            "url": "https://vavoo.to/vavoo-iptv/play/4017608910fce4d0302c20",
             "group": "Italy"
         },
         {
@@ -1961,11 +1931,6 @@
             "group": "Italy"
         },
         {
-            "name": "TV LUNA",
-            "url": "https://vavoo.to/vavoo-iptv/play/37897066429b9ef63bb97c",
-            "group": "Italy"
-        },
-        {
             "name": "TV QUI",
             "url": "https://vavoo.to/vavoo-iptv/play/220293751865cbdd1866be",
             "group": "Italy"
@@ -1978,11 +1943,6 @@
         {
             "name": "TV2000",
             "url": "https://vavoo.to/vavoo-iptv/play/11337349729837365ad79b",
-            "group": "Italy"
-        },
-        {
-            "name": "TV7 NEWS",
-            "url": "https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce",
             "group": "Italy"
         },
         {
@@ -2033,16 +1993,6 @@
         {
             "name": "VIDEOLINA",
             "url": "https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f",
-            "group": "Italy"
-        },
-        {
-            "name": "VIDEOSTAR TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86",
-            "group": "Italy"
-        },
-        {
-            "name": "YU-GI-OH! ITALY",
-            "url": "https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb",
             "group": "Italy"
         }
     ]

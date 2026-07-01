@@ -59,8 +59,6 @@ https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
 https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 group-title="Italy",BOOMERANG
 https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f
-#EXTINF:-1 group-title="Italy",BYOBLU
-https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 #EXTINF:-1 group-title="Italy",CACCIA
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
 #EXTINF:-1 group-title="Italy",CAFE 24
@@ -89,6 +87,8 @@ https://vavoo.to/vavoo-iptv/play/2749478718a361866152ca
 https://vavoo.to/vavoo-iptv/play/31075009959a8de9232b11
 #EXTINF:-1 group-title="Italy",CANALE DIECI
 https://vavoo.to/vavoo-iptv/play/143172936059b3a0bf594c
+#EXTINF:-1 group-title="Italy",CARINA TV
+https://vavoo.to/vavoo-iptv/play/1527236924d8d52d57c2e3
 #EXTINF:-1 group-title="Italy",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 group-title="Italy",CARTOON NETWORK
@@ -125,8 +125,6 @@ https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
 #EXTINF:-1 group-title="Italy",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
-#EXTINF:-1 group-title="Italy",DAZN 3
-https://vavoo.to/vavoo-iptv/play/6843606058d0cc03250ea
 #EXTINF:-1 group-title="Italy",DEEJAY TV
 https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
 #EXTINF:-1 group-title="Italy",DEEJAY TV
@@ -181,8 +179,6 @@ https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 group-title="Italy",EUROSPORT 6 TIMVISION
 https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07
-#EXTINF:-1 group-title="Italy",EXTRA TV
-https://vavoo.to/vavoo-iptv/play/33656973896c0d65694135
 #EXTINF:-1 group-title="Italy",FANO TV
 https://vavoo.to/vavoo-iptv/play/1798700028a88b50c2df9d
 #EXTINF:-1 group-title="Italy",FASHION TV
@@ -233,8 +229,6 @@ https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
 #EXTINF:-1 group-title="Italy",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
-#EXTINF:-1 group-title="Italy",IMAS TV
-https://vavoo.to/vavoo-iptv/play/20730689949792c706f380
 #EXTINF:-1 group-title="Italy",INTER TV
 https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 #EXTINF:-1 group-title="Italy",IRIS
@@ -351,8 +345,6 @@ https://vavoo.to/vavoo-iptv/play/530658045774685c88ed8
 https://vavoo.to/vavoo-iptv/play/91764224e4ebfa90eace
 #EXTINF:-1 group-title="Italy",PRIMO CANALE
 https://vavoo.to/vavoo-iptv/play/3497884599a7fdd17618d9
-#EXTINF:-1 group-title="Italy",PRIMOCANALE
-https://vavoo.to/vavoo-iptv/play/2944239261b7c6547b7641
 #EXTINF:-1 group-title="Italy",QUADRIFOGLIO TV
 https://vavoo.to/vavoo-iptv/play/217875329778328d42d121
 #EXTINF:-1 group-title="Italy",QUARTA RETE
@@ -433,14 +425,10 @@ https://vavoo.to/vavoo-iptv/play/6057450468326830cabb4
 https://vavoo.to/vavoo-iptv/play/32145975548e7b69c138c5
 #EXTINF:-1 group-title="Italy",RAKUTEN TV COMEDY MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/1810817472eb83e2609e85
-#EXTINF:-1 group-title="Italy",RAKUTEN TV CRIME SERIES ITALY
-https://vavoo.to/vavoo-iptv/play/2528607377858e5f38ad32
 #EXTINF:-1 group-title="Italy",RAKUTEN TV DRAMA MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/3709565277575dc0e24113
 #EXTINF:-1 group-title="Italy",RAKUTEN TV FAMILY MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/37898788895c371a08a3b2
-#EXTINF:-1 group-title="Italy",RAKUTEN TV ROMANCE MOVIES ITALY
-https://vavoo.to/vavoo-iptv/play/3147240888262c9b3a94a8
 #EXTINF:-1 group-title="Italy",RAKUTEN TV SCI-FI ITALY
 https://vavoo.to/vavoo-iptv/play/9327556059b5f458e755
 #EXTINF:-1 group-title="Italy",RAKUTEN TV TOP MOVIES ITALY

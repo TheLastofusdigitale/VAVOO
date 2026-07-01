@@ -151,11 +151,6 @@
             "group": "Italy"
         },
         {
-            "name": "BYOBLU",
-            "url": "https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d",
-            "group": "Italy"
-        },
-        {
             "name": "CACCIA",
             "url": "https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca",
             "group": "Italy"
@@ -223,6 +218,11 @@
         {
             "name": "CANALE DIECI",
             "url": "https://vavoo.to/vavoo-iptv/play/143172936059b3a0bf594c",
+            "group": "Italy"
+        },
+        {
+            "name": "CARINA TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/1527236924d8d52d57c2e3",
             "group": "Italy"
         },
         {
@@ -313,11 +313,6 @@
         {
             "name": "DAZN 1",
             "url": "https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20",
-            "group": "Italy"
-        },
-        {
-            "name": "DAZN 3",
-            "url": "https://vavoo.to/vavoo-iptv/play/6843606058d0cc03250ea",
             "group": "Italy"
         },
         {
@@ -456,11 +451,6 @@
             "group": "Italy"
         },
         {
-            "name": "EXTRA TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/33656973896c0d65694135",
-            "group": "Italy"
-        },
-        {
             "name": "FANO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/1798700028a88b50c2df9d",
             "group": "Italy"
@@ -583,11 +573,6 @@
         {
             "name": "ICARO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/2392139008947764078821",
-            "group": "Italy"
-        },
-        {
-            "name": "IMAS TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/20730689949792c706f380",
             "group": "Italy"
         },
         {
@@ -881,11 +866,6 @@
             "group": "Italy"
         },
         {
-            "name": "PRIMOCANALE",
-            "url": "https://vavoo.to/vavoo-iptv/play/2944239261b7c6547b7641",
-            "group": "Italy"
-        },
-        {
             "name": "QUADRIFOGLIO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/217875329778328d42d121",
             "group": "Italy"
@@ -1086,11 +1066,6 @@
             "group": "Italy"
         },
         {
-            "name": "RAKUTEN TV CRIME SERIES ITALY",
-            "url": "https://vavoo.to/vavoo-iptv/play/2528607377858e5f38ad32",
-            "group": "Italy"
-        },
-        {
             "name": "RAKUTEN TV DRAMA MOVIES ITALY",
             "url": "https://vavoo.to/vavoo-iptv/play/3709565277575dc0e24113",
             "group": "Italy"
@@ -1098,11 +1073,6 @@
         {
             "name": "RAKUTEN TV FAMILY MOVIES ITALY",
             "url": "https://vavoo.to/vavoo-iptv/play/37898788895c371a08a3b2",
-            "group": "Italy"
-        },
-        {
-            "name": "RAKUTEN TV ROMANCE MOVIES ITALY",
-            "url": "https://vavoo.to/vavoo-iptv/play/3147240888262c9b3a94a8",
             "group": "Italy"
         },
         {

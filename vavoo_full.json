@@ -237,6 +237,11 @@
         },
         {
             "name": "CARTOON NETWORK",
+            "url": "https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c",
+            "group": "Italy"
+        },
+        {
+            "name": "CARTOON NETWORK",
             "url": "https://vavoo.to/vavoo-iptv/play/1289777017c50e3cf3fd74",
             "group": "Italy"
         },
@@ -1086,11 +1091,6 @@
             "group": "Italy"
         },
         {
-            "name": "RAKUTEN TV COMEDY MOVIES ITALY",
-            "url": "https://vavoo.to/vavoo-iptv/play/1810817472eb83e2609e85",
-            "group": "Italy"
-        },
-        {
             "name": "RAKUTEN TV CRIME SERIES ITALY",
             "url": "https://vavoo.to/vavoo-iptv/play/2528607377858e5f38ad32",
             "group": "Italy"
@@ -1233,6 +1233,11 @@
         {
             "name": "RTM TV",
             "url": "https://vavoo.to/vavoo-iptv/play/2294009196bff728f2a31e",
+            "group": "Italy"
+        },
+        {
+            "name": "RTP (RETE TELEVISIVA)",
+            "url": "https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3",
             "group": "Italy"
         },
         {
@@ -1591,6 +1596,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY SPORT GOLF",
+            "url": "https://vavoo.to/vavoo-iptv/play/729945219d6146597896a",
+            "group": "Italy"
+        },
+        {
             "name": "SKY SPORT MAX",
             "url": "https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb",
             "group": "Italy"
@@ -1793,11 +1803,6 @@
         {
             "name": "TELE TRICOLORE",
             "url": "https://vavoo.to/vavoo-iptv/play/2314613216d218b9f4abd4",
-            "group": "Italy"
-        },
-        {
-            "name": "TELE TUSCIASABINA 2000",
-            "url": "https://vavoo.to/vavoo-iptv/play/545707096d82d839e8210",
             "group": "Italy"
         },
         {
@@ -2033,11 +2038,6 @@
         {
             "name": "UNINETTUNO UNIVERSITY TV",
             "url": "https://vavoo.to/vavoo-iptv/play/3765504418d7a4047993c",
-            "group": "Italy"
-        },
-        {
-            "name": "VCO AZZURRA TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/20700707550e841728d807",
             "group": "Italy"
         },
         {

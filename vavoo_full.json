@@ -76,6 +76,11 @@
             "group": "Italy"
         },
         {
+            "name": "ARANCIA TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/1792428355edae51bf7896",
+            "group": "Italy"
+        },
+        {
             "name": "ARTE NETWORK",
             "url": "https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d",
             "group": "Italy"
@@ -151,6 +156,11 @@
             "group": "Italy"
         },
         {
+            "name": "BYOBLU",
+            "url": "https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d",
+            "group": "Italy"
+        },
+        {
             "name": "CACCIA",
             "url": "https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca",
             "group": "Italy"
@@ -218,6 +228,11 @@
         {
             "name": "CANALE DIECI",
             "url": "https://vavoo.to/vavoo-iptv/play/143172936059b3a0bf594c",
+            "group": "Italy"
+        },
+        {
+            "name": "CARTOON NETWORK",
+            "url": "https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c",
             "group": "Italy"
         },
         {
@@ -303,6 +318,11 @@
         {
             "name": "DAZN 1",
             "url": "https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20",
+            "group": "Italy"
+        },
+        {
+            "name": "DAZN 3",
+            "url": "https://vavoo.to/vavoo-iptv/play/6843606058d0cc03250ea",
             "group": "Italy"
         },
         {
@@ -761,13 +781,13 @@
             "group": "Italy"
         },
         {
-            "name": "NICKELODEON",
-            "url": "https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c",
+            "name": "NOVE",
+            "url": "https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada",
             "group": "Italy"
         },
         {
-            "name": "NOVE",
-            "url": "https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada",
+            "name": "OL3 RADIO",
+            "url": "https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5",
             "group": "Italy"
         },
         {
@@ -866,11 +886,6 @@
             "group": "Italy"
         },
         {
-            "name": "RADIO CAPITAL",
-            "url": "https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d",
-            "group": "Italy"
-        },
-        {
             "name": "RADIO FRECCIA",
             "url": "https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3",
             "group": "Italy"
@@ -893,6 +908,11 @@
         {
             "name": "RAI 2",
             "url": "https://vavoo.to/vavoo-iptv/play/1939210164cf0608420d67",
+            "group": "Italy"
+        },
+        {
+            "name": "RAI 2",
+            "url": "https://vavoo.to/vavoo-iptv/play/246253359a81d94887441",
             "group": "Italy"
         },
         {
@@ -1046,6 +1066,11 @@
             "group": "Italy"
         },
         {
+            "name": "RAKUTEN TV FAMILY MOVIES ITALY",
+            "url": "https://vavoo.to/vavoo-iptv/play/37898788895c371a08a3b2",
+            "group": "Italy"
+        },
+        {
             "name": "RAKUTEN TV ROMANCE MOVIES ITALY",
             "url": "https://vavoo.to/vavoo-iptv/play/3147240888262c9b3a94a8",
             "group": "Italy"
@@ -1083,6 +1108,11 @@
         {
             "name": "REGGIO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170",
+            "group": "Italy"
+        },
+        {
+            "name": "REI TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6",
             "group": "Italy"
         },
         {
@@ -1631,6 +1661,11 @@
             "group": "Italy"
         },
         {
+            "name": "SPORTITALIA PLUS",
+            "url": "https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197",
+            "group": "Italy"
+        },
+        {
             "name": "SPORTITALIA SOLOCALCIO",
             "url": "https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34",
             "group": "Italy"
@@ -1848,11 +1883,6 @@
         {
             "name": "TELESPAZIO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/38676564387b48bdb05ad",
-            "group": "Italy"
-        },
-        {
-            "name": "TELETRICOLORE",
-            "url": "https://vavoo.to/vavoo-iptv/play/2521763009f0e0ef1051a6",
             "group": "Italy"
         },
         {

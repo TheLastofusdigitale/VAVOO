@@ -81,6 +81,11 @@
             "group": "Italy"
         },
         {
+            "name": "ARTE NETWORK",
+            "url": "https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d",
+            "group": "Italy"
+        },
+        {
             "name": "AURORA ARTE",
             "url": "https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0",
             "group": "Italy"
@@ -153,11 +158,6 @@
         {
             "name": "BOOMERANG",
             "url": "https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f",
-            "group": "Italy"
-        },
-        {
-            "name": "BYOBLU",
-            "url": "https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d",
             "group": "Italy"
         },
         {
@@ -606,6 +606,11 @@
             "group": "Italy"
         },
         {
+            "name": "IMAS TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/20730689949792c706f380",
+            "group": "Italy"
+        },
+        {
             "name": "INTER TV",
             "url": "https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21",
             "group": "Italy"
@@ -1051,6 +1056,11 @@
             "group": "Italy"
         },
         {
+            "name": "RAI SPORT [LIVE DURING EVENTS ONLY]",
+            "url": "https://vavoo.to/vavoo-iptv/play/55173022458f32c70e30a",
+            "group": "Italy"
+        },
+        {
             "name": "RAI SPORT+",
             "url": "https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19",
             "group": "Italy"
@@ -1101,13 +1111,13 @@
             "group": "Italy"
         },
         {
-            "name": "RAKUTEN TV ROMANCE MOVIES ITALY",
-            "url": "https://vavoo.to/vavoo-iptv/play/3147240888262c9b3a94a8",
+            "name": "RAKUTEN TV FAMILY MOVIES ITALY",
+            "url": "https://vavoo.to/vavoo-iptv/play/37898788895c371a08a3b2",
             "group": "Italy"
         },
         {
-            "name": "RAKUTEN TV SCI-FI ITALY",
-            "url": "https://vavoo.to/vavoo-iptv/play/9327556059b5f458e755",
+            "name": "RAKUTEN TV ROMANCE MOVIES ITALY",
+            "url": "https://vavoo.to/vavoo-iptv/play/3147240888262c9b3a94a8",
             "group": "Italy"
         },
         {
@@ -1198,6 +1208,11 @@
         {
             "name": "RSI LA 1",
             "url": "https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610",
+            "group": "Italy"
+        },
+        {
+            "name": "RSI LA 2",
+            "url": "https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37",
             "group": "Italy"
         },
         {
@@ -1367,6 +1382,11 @@
         },
         {
             "name": "SKY CINEMA UNO",
+            "url": "https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY CINEMA UNO",
             "url": "https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676",
             "group": "Italy"
         },
@@ -1478,11 +1498,6 @@
         {
             "name": "SKY PRIMAFILA 4",
             "url": "https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY PRIMAFILA 5",
-            "url": "https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2",
             "group": "Italy"
         },
         {

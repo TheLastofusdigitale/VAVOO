@@ -331,6 +331,11 @@
             "group": "Italy"
         },
         {
+            "name": "DAZN 3",
+            "url": "https://vavoo.to/vavoo-iptv/play/6843606058d0cc03250ea",
+            "group": "Italy"
+        },
+        {
             "name": "DEEJAY TV",
             "url": "https://vavoo.to/vavoo-iptv/play/963607327f90ada131395",
             "group": "Italy"
@@ -608,6 +613,11 @@
         {
             "name": "IMAS TV",
             "url": "https://vavoo.to/vavoo-iptv/play/20730689949792c706f380",
+            "group": "Italy"
+        },
+        {
+            "name": "INTER TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21",
             "group": "Italy"
         },
         {
@@ -1492,11 +1502,6 @@
         },
         {
             "name": "SKY PRIMAFILA 4",
-            "url": "https://vavoo.to/vavoo-iptv/play/31379908902c3fc54d6e13",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY PRIMAFILA 4",
             "url": "https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74",
             "group": "Italy"
         },
@@ -1908,11 +1913,6 @@
         {
             "name": "TELEQUATTRO",
             "url": "https://vavoo.to/vavoo-iptv/play/10839846696ddb422bcd88",
-            "group": "Italy"
-        },
-        {
-            "name": "TELERAMA",
-            "url": "https://vavoo.to/vavoo-iptv/play/4017608910fce4d0302c20",
             "group": "Italy"
         },
         {

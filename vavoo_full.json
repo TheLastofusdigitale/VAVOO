@@ -337,12 +337,12 @@
         },
         {
             "name": "DEEJAY TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319",
+            "url": "https://vavoo.to/vavoo-iptv/play/963607327f90ada131395",
             "group": "Italy"
         },
         {
-            "name": "DISCOVERY CHANNEL",
-            "url": "https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1",
+            "name": "DEEJAY TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319",
             "group": "Italy"
         },
         {
@@ -793,11 +793,6 @@
         {
             "name": "MTV",
             "url": "https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1",
-            "group": "Italy"
-        },
-        {
-            "name": "NAT GEO",
-            "url": "https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce",
             "group": "Italy"
         },
         {
@@ -1591,6 +1586,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY SPORT GOLF",
+            "url": "https://vavoo.to/vavoo-iptv/play/729945219d6146597896a",
+            "group": "Italy"
+        },
+        {
             "name": "SKY SPORT MAX",
             "url": "https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb",
             "group": "Italy"
@@ -1788,6 +1788,11 @@
         {
             "name": "TELE PAVIA",
             "url": "https://vavoo.to/vavoo-iptv/play/6164833177424547eff1f",
+            "group": "Italy"
+        },
+        {
+            "name": "TELE TRICOLORE",
+            "url": "https://vavoo.to/vavoo-iptv/play/2314613216d218b9f4abd4",
             "group": "Italy"
         },
         {

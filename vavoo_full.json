@@ -231,11 +231,6 @@
             "group": "Italy"
         },
         {
-            "name": "CANALE DIECI",
-            "url": "https://vavoo.to/vavoo-iptv/play/143172936059b3a0bf594c",
-            "group": "Italy"
-        },
-        {
             "name": "CARINA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/1527236924d8d52d57c2e3",
             "group": "Italy"
@@ -338,6 +333,11 @@
         {
             "name": "DEEJAY TV",
             "url": "https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319",
+            "group": "Italy"
+        },
+        {
+            "name": "DISCOVERY CHANNEL",
+            "url": "https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1",
             "group": "Italy"
         },
         {
@@ -1036,6 +1036,11 @@
             "group": "Italy"
         },
         {
+            "name": "RAI SCUOLA",
+            "url": "https://vavoo.to/vavoo-iptv/play/1886684667a4cfd0e271d1",
+            "group": "Italy"
+        },
+        {
             "name": "RAI SPORT",
             "url": "https://vavoo.to/vavoo-iptv/play/29241350927e983d18bd31",
             "group": "Italy"
@@ -1267,11 +1272,6 @@
         },
         {
             "name": "SKY ARTE",
-            "url": "https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY ARTE",
             "url": "https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0",
             "group": "Italy"
         },
@@ -1348,6 +1348,11 @@
         {
             "name": "SKY CINEMA ROMANCE",
             "url": "https://vavoo.to/vavoo-iptv/play/2890008905a6ae9fa14809",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY CINEMA ROMANCE",
+            "url": "https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f",
             "group": "Italy"
         },
         {

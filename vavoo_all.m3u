@@ -221,6 +221,8 @@ https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e
 https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 #EXTINF:-1 group-title="Italy",GLOBUS TELEVISION
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
+#EXTINF:-1 group-title="Italy",GOLD TV
+https://vavoo.to/vavoo-iptv/play/2854396316c4fc7fe60f75
 #EXTINF:-1 group-title="Italy",GRANDE FRATELLO
 https://vavoo.to/vavoo-iptv/play/130018905764f20a1f9289
 #EXTINF:-1 group-title="Italy",GRANDUCATO
@@ -311,8 +313,6 @@ https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 #EXTINF:-1 group-title="Italy",MOTORTREND
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
-#EXTINF:-1 group-title="Italy",MTV
-https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
 #EXTINF:-1 group-title="Italy",NAT GEO
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 group-title="Italy",NAT GEO
@@ -509,6 +509,8 @@ https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
 #EXTINF:-1 group-title="Italy",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
+#EXTINF:-1 group-title="Italy",SKY ARTE
+https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 group-title="Italy",SKY ATLANTIC
 https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918
 #EXTINF:-1 group-title="Italy",SKY ATLANTIC
@@ -631,8 +633,6 @@ https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTINF:-1 group-title="Italy",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
-#EXTINF:-1 group-title="Italy",SKY SPORT F1
-https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTINF:-1 group-title="Italy",SKY SPORT GOLF
 https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
 #EXTINF:-1 group-title="Italy",SKY SPORT MAX
@@ -757,6 +757,8 @@ https://vavoo.to/vavoo-iptv/play/1670818396815a6c065dd0
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 #EXTINF:-1 group-title="Italy",TELEQUATTRO
 https://vavoo.to/vavoo-iptv/play/10839846696ddb422bcd88
+#EXTINF:-1 group-title="Italy",TELERAMA
+https://vavoo.to/vavoo-iptv/play/4017608910fce4d0302c20
 #EXTINF:-1 group-title="Italy",TELEROMAGNA
 https://vavoo.to/vavoo-iptv/play/279439224488ada9f3a1b3
 #EXTINF:-1 group-title="Italy",TELESPAZIO TV

@@ -326,11 +326,6 @@
             "group": "Italy"
         },
         {
-            "name": "DAZN 3",
-            "url": "https://vavoo.to/vavoo-iptv/play/6843606058d0cc03250ea",
-            "group": "Italy"
-        },
-        {
             "name": "DEEJAY TV",
             "url": "https://vavoo.to/vavoo-iptv/play/963607327f90ada131395",
             "group": "Italy"
@@ -553,11 +548,6 @@
         {
             "name": "GLOBUS TELEVISION",
             "url": "https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6",
-            "group": "Italy"
-        },
-        {
-            "name": "GOLD TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/2854396316c4fc7fe60f75",
             "group": "Italy"
         },
         {
@@ -786,6 +776,11 @@
             "group": "Italy"
         },
         {
+            "name": "MTV",
+            "url": "https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1",
+            "group": "Italy"
+        },
+        {
             "name": "NAT GEO",
             "url": "https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce",
             "group": "Italy"
@@ -928,11 +923,6 @@
         {
             "name": "RADIONORBA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/26276627684bd1fbc5cb29",
-            "group": "Italy"
-        },
-        {
-            "name": "RAI 1",
-            "url": "https://vavoo.to/vavoo-iptv/play/875922788627becc98639",
             "group": "Italy"
         },
         {
@@ -1498,6 +1488,11 @@
         {
             "name": "SKY PRIMAFILA 5",
             "url": "https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY PRIMAFILA 5",
+            "url": "https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002",
             "group": "Italy"
         },
         {

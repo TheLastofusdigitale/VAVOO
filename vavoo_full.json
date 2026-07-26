@@ -351,11 +351,6 @@
             "group": "Italy"
         },
         {
-            "name": "CINE 34",
-            "url": "https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f",
-            "group": "Italy"
-        },
-        {
             "name": "CINE 34 MEDIASET",
             "url": "https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38",
             "group": "Italy"
@@ -756,6 +751,11 @@
             "group": "Italy"
         },
         {
+            "name": "ITALIAN FISHING TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68",
+            "group": "Italy"
+        },
+        {
             "name": "IUNIOR TV",
             "url": "https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3",
             "group": "Italy"
@@ -886,13 +886,13 @@
             "group": "Italy"
         },
         {
-            "name": "MARIA+VISION",
-            "url": "https://vavoo.to/vavoo-iptv/play/448530931a02141cb37b2",
+            "name": "M2O TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/12789846009c1f647db85b",
             "group": "Italy"
         },
         {
-            "name": "MAVTV EUROPE",
-            "url": "https://vavoo.to/vavoo-iptv/play/18507350448845a562cc9",
+            "name": "MARIA+VISION",
+            "url": "https://vavoo.to/vavoo-iptv/play/448530931a02141cb37b2",
             "group": "Italy"
         },
         {
@@ -996,8 +996,8 @@
             "group": "Italy"
         },
         {
-            "name": "ONDA NOVARA TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/3134124967ad7ac6cb62f9",
+            "name": "OL3 RADIO",
+            "url": "https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5",
             "group": "Italy"
         },
         {
@@ -1328,11 +1328,6 @@
         {
             "name": "RAKUTEN ACTION MOVIES",
             "url": "https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc",
-            "group": "Italy"
-        },
-        {
-            "name": "RAKUTEN COMEDY MOVIES",
-            "url": "https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6",
             "group": "Italy"
         },
         {
@@ -2131,6 +2126,11 @@
             "group": "Italy"
         },
         {
+            "name": "TELE PAVIA (BACKUP)",
+            "url": "https://vavoo.to/vavoo-iptv/play/2588652431462dade350ee",
+            "group": "Italy"
+        },
+        {
             "name": "TELE TRICOLORE",
             "url": "https://vavoo.to/vavoo-iptv/play/2314613216d218b9f4abd4",
             "group": "Italy"
@@ -2268,6 +2268,11 @@
         {
             "name": "TELETUTTO",
             "url": "https://vavoo.to/vavoo-iptv/play/3271666551331132c8bfab",
+            "group": "Italy"
+        },
+        {
+            "name": "TG COM 24",
+            "url": "https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc",
             "group": "Italy"
         },
         {

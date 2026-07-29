@@ -36,11 +36,6 @@
             "group": "Italy"
         },
         {
-            "name": "7 YOU & ME",
-            "url": "https://vavoo.to/vavoo-iptv/play/178775175831e62385f371",
-            "group": "Italy"
-        },
-        {
             "name": "70-80",
             "url": "https://vavoo.to/vavoo-iptv/play/3701871205057c15adedda",
             "group": "Italy"
@@ -53,6 +48,11 @@
         {
             "name": "A3",
             "url": "https://vavoo.to/vavoo-iptv/play/445158856541438cd842a",
+            "group": "Italy"
+        },
+        {
+            "name": "AB",
+            "url": "https://vavoo.to/vavoo-iptv/play/1491139076cadf4c6a33d9",
             "group": "Italy"
         },
         {
@@ -176,6 +176,11 @@
             "group": "Italy"
         },
         {
+            "name": "BLOOMBERG TV EMEA LIVE EVENT",
+            "url": "https://vavoo.to/vavoo-iptv/play/2530106969945d13737132",
+            "group": "Italy"
+        },
+        {
             "name": "BOING",
             "url": "https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3",
             "group": "Italy"
@@ -248,6 +253,11 @@
         {
             "name": "CANALE 21 EXTRA",
             "url": "https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4",
+            "group": "Italy"
+        },
+        {
+            "name": "CANALE 21 LAZIO",
+            "url": "https://vavoo.to/vavoo-iptv/play/36744884556a262b65d9c9",
             "group": "Italy"
         },
         {
@@ -571,11 +581,6 @@
             "group": "Italy"
         },
         {
-            "name": "FAILARMY",
-            "url": "https://vavoo.to/vavoo-iptv/play/458018069af4096ff6c35",
-            "group": "Italy"
-        },
-        {
             "name": "FANO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/1798700028a88b50c2df9d",
             "group": "Italy"
@@ -746,11 +751,6 @@
             "group": "Italy"
         },
         {
-            "name": "ITALIAN FISHING TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68",
-            "group": "Italy"
-        },
-        {
             "name": "IUNIOR TV",
             "url": "https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3",
             "group": "Italy"
@@ -873,11 +873,6 @@
         {
             "name": "M2O",
             "url": "https://vavoo.to/vavoo-iptv/play/1189750614b197994e963d",
-            "group": "Italy"
-        },
-        {
-            "name": "M2O TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/12789846009c1f647db85b",
             "group": "Italy"
         },
         {
@@ -1161,6 +1156,11 @@
             "group": "Italy"
         },
         {
+            "name": "RADIO NUMBER ONE",
+            "url": "https://vavoo.to/vavoo-iptv/play/20943914064f53073f1ec3",
+            "group": "Italy"
+        },
+        {
             "name": "RADIO STUDIO DELTA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/392192791518851ccc8b0a",
             "group": "Italy"
@@ -1318,6 +1318,16 @@
         {
             "name": "RAI YOYO",
             "url": "https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1",
+            "group": "Italy"
+        },
+        {
+            "name": "RAKUTEN ACTION MOVIES",
+            "url": "https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc",
+            "group": "Italy"
+        },
+        {
+            "name": "RAKUTEN COMEDY MOVIES",
+            "url": "https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6",
             "group": "Italy"
         },
         {
@@ -1496,8 +1506,8 @@
             "group": "Italy"
         },
         {
-            "name": "RTM TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/2294009196bff728f2a31e",
+            "name": "RTM",
+            "url": "https://vavoo.to/vavoo-iptv/play/958797744cd4efa7493ca",
             "group": "Italy"
         },
         {
@@ -1936,6 +1946,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY SPORTS GOLF",
+            "url": "https://vavoo.to/vavoo-iptv/play/27177400159a49bec8b4e4",
+            "group": "Italy"
+        },
+        {
             "name": "SKY SUPER TENNIS",
             "url": "https://vavoo.to/vavoo-iptv/play/55828211836e421b20575",
             "group": "Italy"
@@ -1971,13 +1986,13 @@
             "group": "Italy"
         },
         {
-            "name": "SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]",
-            "url": "https://vavoo.to/vavoo-iptv/play/83094948658201829f87a",
+            "name": "SPORTITALIA PLUS",
+            "url": "https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197",
             "group": "Italy"
         },
         {
-            "name": "SPORTITALIA SOLOCALCIO",
-            "url": "https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34",
+            "name": "ST EUROPE CHANNEL",
+            "url": "https://vavoo.to/vavoo-iptv/play/2356295928676bcb269bb3",
             "group": "Italy"
         },
         {
@@ -2226,6 +2241,11 @@
             "group": "Italy"
         },
         {
+            "name": "TELERAMA",
+            "url": "https://vavoo.to/vavoo-iptv/play/4017608910fce4d0302c20",
+            "group": "Italy"
+        },
+        {
             "name": "TELEROMAGNA",
             "url": "https://vavoo.to/vavoo-iptv/play/279439224488ada9f3a1b3",
             "group": "Italy"
@@ -2316,6 +2336,11 @@
             "group": "Italy"
         },
         {
+            "name": "TV MODA",
+            "url": "https://vavoo.to/vavoo-iptv/play/58203856950cc052e1535",
+            "group": "Italy"
+        },
+        {
             "name": "TV QUI",
             "url": "https://vavoo.to/vavoo-iptv/play/220293751865cbdd1866be",
             "group": "Italy"
@@ -2393,6 +2418,11 @@
         {
             "name": "VIDEOSTAR TV",
             "url": "https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86",
+            "group": "Italy"
+        },
+        {
+            "name": "VIDEOTOLENTINO",
+            "url": "https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c",
             "group": "Italy"
         },
         {

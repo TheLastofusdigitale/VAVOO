@@ -256,8 +256,8 @@
             "group": "Italy"
         },
         {
-            "name": "CANALE 21 EXTRA",
-            "url": "https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4",
+            "name": "CANALE 21 LAZIO",
+            "url": "https://vavoo.to/vavoo-iptv/play/36744884556a262b65d9c9",
             "group": "Italy"
         },
         {
@@ -298,6 +298,11 @@
         {
             "name": "CANALE TELECHIARA",
             "url": "https://vavoo.to/vavoo-iptv/play/3065008757a139b0fed8ff",
+            "group": "Italy"
+        },
+        {
+            "name": "CARINA TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/1527236924d8d52d57c2e3",
             "group": "Italy"
         },
         {
@@ -441,6 +446,11 @@
             "group": "Italy"
         },
         {
+            "name": "DISCOVERY SCIENCE",
+            "url": "https://vavoo.to/vavoo-iptv/play/3088028964c224fe0b97aa",
+            "group": "Italy"
+        },
+        {
             "name": "DISNEY+ FILM",
             "url": "https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927",
             "group": "Italy"
@@ -448,6 +458,11 @@
         {
             "name": "DMAX",
             "url": "https://vavoo.to/vavoo-iptv/play/3008151733b9915486ff45",
+            "group": "Italy"
+        },
+        {
+            "name": "DMAX",
+            "url": "https://vavoo.to/vavoo-iptv/play/3803638765756268d23edc",
             "group": "Italy"
         },
         {
@@ -632,6 +647,11 @@
         },
         {
             "name": "GIALLO",
+            "url": "https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e",
+            "group": "Italy"
+        },
+        {
+            "name": "GIALLO",
             "url": "https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59",
             "group": "Italy"
         },
@@ -643,6 +663,11 @@
         {
             "name": "GLOBUS TELEVISION",
             "url": "https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6",
+            "group": "Italy"
+        },
+        {
+            "name": "GOLD TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/2854396316c4fc7fe60f75",
             "group": "Italy"
         },
         {
@@ -888,11 +913,6 @@
         {
             "name": "MEDIASET EXTRA",
             "url": "https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e",
-            "group": "Italy"
-        },
-        {
-            "name": "MEDIASET EXTRA",
-            "url": "https://vavoo.to/vavoo-iptv/play/37521824789e4e758184cc",
             "group": "Italy"
         },
         {
@@ -1212,6 +1232,11 @@
         },
         {
             "name": "RAI 5",
+            "url": "https://vavoo.to/vavoo-iptv/play/3249873828c4ad4d2c1d15",
+            "group": "Italy"
+        },
+        {
+            "name": "RAI 5",
             "url": "https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323",
             "group": "Italy"
         },
@@ -1223,11 +1248,6 @@
         {
             "name": "RAI GULP",
             "url": "https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f",
-            "group": "Italy"
-        },
-        {
-            "name": "RAI ITALIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0",
             "group": "Italy"
         },
         {
@@ -1498,6 +1518,16 @@
         {
             "name": "RTP (RETE TELEVISIVA)",
             "url": "https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3",
+            "group": "Italy"
+        },
+        {
+            "name": "RTTR",
+            "url": "https://vavoo.to/vavoo-iptv/play/3799362189218b541a9c76",
+            "group": "Italy"
+        },
+        {
+            "name": "RTTR TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/179187969291f776663d1e",
             "group": "Italy"
         },
         {

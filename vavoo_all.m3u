@@ -465,6 +465,8 @@ https://vavoo.to/vavoo-iptv/play/1119525899d2181e2bff52
 https://vavoo.to/vavoo-iptv/play/15694139179634c11062a2
 #EXTINF:-1 group-title="Italy",RADIO ITALIA TV
 https://vavoo.to/vavoo-iptv/play/39657019376a0123c5f968
+#EXTINF:-1 group-title="Italy",RADIO MONTE CARLO
+https://vavoo.to/vavoo-iptv/play/36504228878f7128ca6771
 #EXTINF:-1 group-title="Italy",RADIO NUMBER ONE
 https://vavoo.to/vavoo-iptv/play/20943914064f53073f1ec3
 #EXTINF:-1 group-title="Italy",RADIO STUDIO DELTA TV
@@ -479,6 +481,8 @@ https://vavoo.to/vavoo-iptv/play/875922788627becc98639
 https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03
 #EXTINF:-1 group-title="Italy",RAI 2
 https://vavoo.to/vavoo-iptv/play/1939210164cf0608420d67
+#EXTINF:-1 group-title="Italy",RAI 2
+https://vavoo.to/vavoo-iptv/play/246253359a81d94887441
 #EXTINF:-1 group-title="Italy",RAI 3
 https://vavoo.to/vavoo-iptv/play/1324733956dd45e42ab076
 #EXTINF:-1 group-title="Italy",RAI 3
@@ -495,6 +499,8 @@ https://vavoo.to/vavoo-iptv/play/3249873828c4ad4d2c1d15
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTINF:-1 group-title="Italy",RAI GULP
 https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
+#EXTINF:-1 group-title="Italy",RAI GULP
+https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 group-title="Italy",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
 #EXTINF:-1 group-title="Italy",RAI MOVIE
@@ -529,6 +535,8 @@ https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 group-title="Italy",RAKUTEN ACTION MOVIES
 https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
+#EXTINF:-1 group-title="Italy",RAKUTEN COMEDY MOVIES
+https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 group-title="Italy",RAKUTEN TV ACTION MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/6057450468326830cabb4
 #EXTINF:-1 group-title="Italy",RAKUTEN TV ASIAN CINEMA ITALY
@@ -557,8 +565,6 @@ https://vavoo.to/vavoo-iptv/play/157497519660249c278f94
 https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 group-title="Italy",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
-#EXTINF:-1 group-title="Italy",REI TV
-https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6
 #EXTINF:-1 group-title="Italy",RETE 4
 https://vavoo.to/vavoo-iptv/play/4198218214cee07ebbc292
 #EXTINF:-1 group-title="Italy",RETE 4
@@ -773,8 +779,6 @@ https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
 #EXTINF:-1 group-title="Italy",SKY SPORTS 24
 https://vavoo.to/vavoo-iptv/play/34936071312c994246f2bd
-#EXTINF:-1 group-title="Italy",SKY SPORTS F1
-https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 group-title="Italy",SKY SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 group-title="Italy",SKY TG 24
@@ -789,6 +793,8 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://vavoo.to/vavoo-iptv/play/287379323134c651595371
 #EXTINF:-1 group-title="Italy",SPORT ITALIA
 https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
+#EXTINF:-1 group-title="Italy",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
+https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 group-title="Italy",SPORTITALIA PLUS
 https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 #EXTINF:-1 group-title="Italy",SPORTITALIA SOLOCALCIO
@@ -903,8 +909,6 @@ https://vavoo.to/vavoo-iptv/play/38676564387b48bdb05ad
 https://vavoo.to/vavoo-iptv/play/2521763009f0e0ef1051a6
 #EXTINF:-1 group-title="Italy",TELETUTTO
 https://vavoo.to/vavoo-iptv/play/3271666551331132c8bfab
-#EXTINF:-1 group-title="Italy",TG COM 24
-https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 #EXTINF:-1 group-title="Italy",TG NORBA 24
 https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a
 #EXTINF:-1 group-title="Italy",TG NORBA 24

@@ -106,11 +106,6 @@
             "group": "Italy"
         },
         {
-            "name": "ANTENNA 2",
-            "url": "https://vavoo.to/vavoo-iptv/play/17517155192c113fac0325",
-            "group": "Italy"
-        },
-        {
             "name": "ARANCIA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/1792428355edae51bf7896",
             "group": "Italy"
@@ -256,6 +251,11 @@
             "group": "Italy"
         },
         {
+            "name": "CANALE 21 EXTRA",
+            "url": "https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4",
+            "group": "Italy"
+        },
+        {
             "name": "CANALE 21 LAZIO",
             "url": "https://vavoo.to/vavoo-iptv/play/36744884556a262b65d9c9",
             "group": "Italy"
@@ -398,6 +398,11 @@
         {
             "name": "DEEJAY TV",
             "url": "https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319",
+            "group": "Italy"
+        },
+        {
+            "name": "DISCOVERY CHANNEL",
+            "url": "https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1",
             "group": "Italy"
         },
         {
@@ -873,11 +878,6 @@
         {
             "name": "M2O",
             "url": "https://vavoo.to/vavoo-iptv/play/1189750614b197994e963d",
-            "group": "Italy"
-        },
-        {
-            "name": "M2O TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/12789846009c1f647db85b",
             "group": "Italy"
         },
         {
@@ -1431,11 +1431,6 @@
             "group": "Italy"
         },
         {
-            "name": "RETE ORO",
-            "url": "https://vavoo.to/vavoo-iptv/play/37088366880c1d8f202dfc",
-            "group": "Italy"
-        },
-        {
             "name": "RETE SOLE",
             "url": "https://vavoo.to/vavoo-iptv/play/36929275131676477efa1e",
             "group": "Italy"
@@ -1498,6 +1493,11 @@
         {
             "name": "RTC TELECALABRIA",
             "url": "https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc",
+            "group": "Italy"
+        },
+        {
+            "name": "RTL 102",
+            "url": "https://vavoo.to/vavoo-iptv/play/3168132911491b6a85a6e2",
             "group": "Italy"
         },
         {

@@ -407,6 +407,11 @@
         },
         {
             "name": "DISCOVERY CHANNEL",
+            "url": "https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1",
+            "group": "Italy"
+        },
+        {
+            "name": "DISCOVERY CHANNEL",
             "url": "https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358",
             "group": "Italy"
         },
@@ -586,8 +591,18 @@
             "group": "Italy"
         },
         {
+            "name": "FASHIONTV",
+            "url": "https://vavoo.to/vavoo-iptv/play/3255207570b230d786fb10",
+            "group": "Italy"
+        },
+        {
             "name": "FM ITALIA",
             "url": "https://vavoo.to/vavoo-iptv/play/6513881342f0388082aa1",
+            "group": "Italy"
+        },
+        {
+            "name": "FM ITALIA TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/3241786453834d6c74cc",
             "group": "Italy"
         },
         {
@@ -798,6 +813,11 @@
         {
             "name": "LA 7",
             "url": "https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb",
+            "group": "Italy"
+        },
+        {
+            "name": "LA 7 CINEMA",
+            "url": "https://vavoo.to/vavoo-iptv/play/11283881429a940ca96c4e",
             "group": "Italy"
         },
         {
@@ -1236,11 +1256,6 @@
             "group": "Italy"
         },
         {
-            "name": "RAI ITALIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0",
-            "group": "Italy"
-        },
-        {
             "name": "RAI MOVIE",
             "url": "https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9",
             "group": "Italy"
@@ -1486,13 +1501,8 @@
             "group": "Italy"
         },
         {
-            "name": "RTC TELECALABRIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc",
-            "group": "Italy"
-        },
-        {
             "name": "RTL 102",
-            "url": "https://vavoo.to/vavoo-iptv/play/3168132911491b6a85a6e2",
+            "url": "https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba",
             "group": "Italy"
         },
         {
@@ -2358,6 +2368,11 @@
         {
             "name": "TVA VICENZA",
             "url": "https://vavoo.to/vavoo-iptv/play/3038112906ea7474420e4b",
+            "group": "Italy"
+        },
+        {
+            "name": "TVRS",
+            "url": "https://vavoo.to/vavoo-iptv/play/148874663839cdbe9a2d7e",
             "group": "Italy"
         },
         {

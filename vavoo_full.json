@@ -666,6 +666,11 @@
             "group": "Italy"
         },
         {
+            "name": "GOLD TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/2854396316c4fc7fe60f75",
+            "group": "Italy"
+        },
+        {
             "name": "GRANDE FRATELLO",
             "url": "https://vavoo.to/vavoo-iptv/play/130018905764f20a1f9289",
             "group": "Italy"
@@ -971,6 +976,11 @@
             "group": "Italy"
         },
         {
+            "name": "NET TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/304085498822d221b3965",
+            "group": "Italy"
+        },
+        {
             "name": "NICK JR",
             "url": "https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065",
             "group": "Italy"
@@ -1033,11 +1043,6 @@
         {
             "name": "PADRE PIO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/35598126040bce17c0686",
-            "group": "Italy"
-        },
-        {
-            "name": "PAROLE DI VITA",
-            "url": "https://vavoo.to/vavoo-iptv/play/1727695336cf48b92b7314",
             "group": "Italy"
         },
         {
@@ -1771,6 +1776,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY PRIMAFILA 4",
+            "url": "https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74",
+            "group": "Italy"
+        },
+        {
             "name": "SKY PRIMAFILA 5",
             "url": "https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2",
             "group": "Italy"
@@ -1923,6 +1933,11 @@
         {
             "name": "SKY SPORT TENNIS",
             "url": "https://vavoo.to/vavoo-iptv/play/78546677680f40b76841",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY SPORT UNO",
+            "url": "https://vavoo.to/vavoo-iptv/play/210669162201ec2365574",
             "group": "Italy"
         },
         {

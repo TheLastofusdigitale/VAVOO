@@ -256,11 +256,6 @@
             "group": "Italy"
         },
         {
-            "name": "CANALE 21 CAMPANIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/390600788675c13850cd70",
-            "group": "Italy"
-        },
-        {
             "name": "CANALE 21 EXTRA",
             "url": "https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4",
             "group": "Italy"
@@ -676,11 +671,6 @@
             "group": "Italy"
         },
         {
-            "name": "GRANDE FRATELLO",
-            "url": "https://vavoo.to/vavoo-iptv/play/130018905764f20a1f9289",
-            "group": "Italy"
-        },
-        {
             "name": "GRANDUCATO",
             "url": "https://vavoo.to/vavoo-iptv/play/9421530140b5164a467be",
             "group": "Italy"
@@ -996,6 +986,11 @@
             "group": "Italy"
         },
         {
+            "name": "NICKELODEON",
+            "url": "https://vavoo.to/vavoo-iptv/play/30731921955c34b3a330ec",
+            "group": "Italy"
+        },
+        {
             "name": "NOVE",
             "url": "https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada",
             "group": "Italy"
@@ -1053,11 +1048,6 @@
         {
             "name": "PEER TV ALTO ADIGE",
             "url": "https://vavoo.to/vavoo-iptv/play/17895220057515b249c059",
-            "group": "Italy"
-        },
-        {
-            "name": "PEOPLE ARE AWESOME",
-            "url": "https://vavoo.to/vavoo-iptv/play/1087345241c8751e395263",
             "group": "Italy"
         },
         {
@@ -1221,6 +1211,11 @@
             "group": "Italy"
         },
         {
+            "name": "RAI 3",
+            "url": "https://vavoo.to/vavoo-iptv/play/869117599e36bb7de752c",
+            "group": "Italy"
+        },
+        {
             "name": "RAI 4",
             "url": "https://vavoo.to/vavoo-iptv/play/4241820180667f1d89110e",
             "group": "Italy"
@@ -1336,6 +1331,11 @@
             "group": "Italy"
         },
         {
+            "name": "RAKUTEN ACTION MOVIES",
+            "url": "https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc",
+            "group": "Italy"
+        },
+        {
             "name": "RAKUTEN COMEDY MOVIES",
             "url": "https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6",
             "group": "Italy"
@@ -1408,11 +1408,6 @@
         {
             "name": "REGGIO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170",
-            "group": "Italy"
-        },
-        {
-            "name": "REI TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6",
             "group": "Italy"
         },
         {
@@ -2271,6 +2266,11 @@
             "group": "Italy"
         },
         {
+            "name": "TELESPAZIO TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/38676564387b48bdb05ad",
+            "group": "Italy"
+        },
+        {
             "name": "TELETRICOLORE",
             "url": "https://vavoo.to/vavoo-iptv/play/2521763009f0e0ef1051a6",
             "group": "Italy"
@@ -2288,6 +2288,11 @@
         {
             "name": "TG NORBA 24",
             "url": "https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a",
+            "group": "Italy"
+        },
+        {
+            "name": "TG NORBA 24",
+            "url": "https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c",
             "group": "Italy"
         },
         {
@@ -2423,6 +2428,11 @@
         {
             "name": "VIDEOSTAR TV",
             "url": "https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86",
+            "group": "Italy"
+        },
+        {
+            "name": "VIDEOTOLENTINO",
+            "url": "https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c",
             "group": "Italy"
         },
         {

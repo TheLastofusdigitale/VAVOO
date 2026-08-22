@@ -201,6 +201,11 @@
             "group": "Italy"
         },
         {
+            "name": "BOING PLUS",
+            "url": "https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc",
+            "group": "Italy"
+        },
+        {
             "name": "BOOMERANG",
             "url": "https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f",
             "group": "Italy"
@@ -256,6 +261,11 @@
             "group": "Italy"
         },
         {
+            "name": "CANALE 21 LAZIO",
+            "url": "https://vavoo.to/vavoo-iptv/play/36744884556a262b65d9c9",
+            "group": "Italy"
+        },
+        {
             "name": "CANALE 5",
             "url": "https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d",
             "group": "Italy"
@@ -288,11 +298,6 @@
         {
             "name": "CANALE 88 MADEINBO",
             "url": "https://vavoo.to/vavoo-iptv/play/888430169ea2f335c3171",
-            "group": "Italy"
-        },
-        {
-            "name": "CANALE TELECHIARA",
-            "url": "https://vavoo.to/vavoo-iptv/play/3065008757a139b0fed8ff",
             "group": "Italy"
         },
         {
@@ -513,11 +518,6 @@
         {
             "name": "ÈTV RETE 7",
             "url": "https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb",
-            "group": "Italy"
-        },
-        {
-            "name": "ETV RETE 7",
-            "url": "https://vavoo.to/vavoo-iptv/play/1493820217edd99cc54d75",
             "group": "Italy"
         },
         {
@@ -836,16 +836,6 @@
             "group": "Italy"
         },
         {
-            "name": "LA TR3 MARSALA",
-            "url": "https://vavoo.to/vavoo-iptv/play/322737388601b884f9662d",
-            "group": "Italy"
-        },
-        {
-            "name": "LAC NEWS 24",
-            "url": "https://vavoo.to/vavoo-iptv/play/37228730056bf7e93438b",
-            "group": "Italy"
-        },
-        {
             "name": "LAZIO TV 13",
             "url": "https://vavoo.to/vavoo-iptv/play/56652751299dc0b400d5c",
             "group": "Italy"
@@ -906,6 +896,11 @@
             "group": "Italy"
         },
         {
+            "name": "MEDIASET EXTRA",
+            "url": "https://vavoo.to/vavoo-iptv/play/37521824789e4e758184cc",
+            "group": "Italy"
+        },
+        {
             "name": "MEDIASET IRIS",
             "url": "https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329",
             "group": "Italy"
@@ -951,13 +946,13 @@
             "group": "Italy"
         },
         {
-            "name": "NAUTICAL",
-            "url": "https://vavoo.to/vavoo-iptv/play/41987887706cc8d9c7ddd3",
+            "name": "NAT GEO WILD",
+            "url": "https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2",
             "group": "Italy"
         },
         {
-            "name": "NET TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/304085498822d221b3965",
+            "name": "NAUTICAL",
+            "url": "https://vavoo.to/vavoo-iptv/play/41987887706cc8d9c7ddd3",
             "group": "Italy"
         },
         {
@@ -1131,11 +1126,6 @@
             "group": "Italy"
         },
         {
-            "name": "RADIO IBIZA TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/3663515423e9e1aecf08ce",
-            "group": "Italy"
-        },
-        {
             "name": "RADIO IGLESIAS SARDEGNA",
             "url": "https://vavoo.to/vavoo-iptv/play/1119525899d2181e2bff52",
             "group": "Italy"
@@ -1158,6 +1148,11 @@
         {
             "name": "RADIO NUMBER ONE",
             "url": "https://vavoo.to/vavoo-iptv/play/20943914064f53073f1ec3",
+            "group": "Italy"
+        },
+        {
+            "name": "RADIO STUDIO DELTA TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/392192791518851ccc8b0a",
             "group": "Italy"
         },
         {
@@ -1446,11 +1441,6 @@
             "group": "Italy"
         },
         {
-            "name": "RETE VENETA",
-            "url": "https://vavoo.to/vavoo-iptv/play/1118453149238dad962982",
-            "group": "Italy"
-        },
-        {
             "name": "RETE VENETA (VENETO)",
             "url": "https://vavoo.to/vavoo-iptv/play/3999322464caf93535eb45",
             "group": "Italy"
@@ -1488,16 +1478,6 @@
         {
             "name": "RTC TELECALABRIA",
             "url": "https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc",
-            "group": "Italy"
-        },
-        {
-            "name": "RTL 102",
-            "url": "https://vavoo.to/vavoo-iptv/play/3168132911491b6a85a6e2",
-            "group": "Italy"
-        },
-        {
-            "name": "RTL 102",
-            "url": "https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba",
             "group": "Italy"
         },
         {
@@ -2101,11 +2081,6 @@
             "group": "Italy"
         },
         {
-            "name": "TELE CHIARA",
-            "url": "https://vavoo.to/vavoo-iptv/play/2521825076452ac13ce197",
-            "group": "Italy"
-        },
-        {
             "name": "TELE FRIULI",
             "url": "https://vavoo.to/vavoo-iptv/play/35518823447060ba68f520",
             "group": "Italy"
@@ -2128,11 +2103,6 @@
         {
             "name": "TELE PAVIA",
             "url": "https://vavoo.to/vavoo-iptv/play/6164833177424547eff1f",
-            "group": "Italy"
-        },
-        {
-            "name": "TELE PAVIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/593944289f99bcec3d51d",
             "group": "Italy"
         },
         {

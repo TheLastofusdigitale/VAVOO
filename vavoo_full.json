@@ -26,6 +26,11 @@
             "group": "Italy"
         },
         {
+            "name": "51 CUSANO ITALIA TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/4124613557378009dcb051",
+            "group": "Italy"
+        },
+        {
             "name": "51 RADIO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/42162455520e0fbef4fafe",
             "group": "Italy"
@@ -71,18 +76,8 @@
             "group": "Italy"
         },
         {
-            "name": "ALICE",
-            "url": "https://vavoo.to/vavoo-iptv/play/3312954721d7076cf106e5",
-            "group": "Italy"
-        },
-        {
             "name": "ALMA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/41311137232a677f05622a",
-            "group": "Italy"
-        },
-        {
-            "name": "ALMA TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/2616675128031c4d37ca6f",
             "group": "Italy"
         },
         {
@@ -98,6 +93,11 @@
         {
             "name": "ANTENNA 2",
             "url": "https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7",
+            "group": "Italy"
+        },
+        {
+            "name": "ANTENNA 2",
+            "url": "https://vavoo.to/vavoo-iptv/play/17517155192c113fac0325",
             "group": "Italy"
         },
         {
@@ -171,11 +171,6 @@
             "group": "Italy"
         },
         {
-            "name": "BLOOMBERG TV EMEA LIVE EVENT",
-            "url": "https://vavoo.to/vavoo-iptv/play/2530106969945d13737132",
-            "group": "Italy"
-        },
-        {
             "name": "BOING",
             "url": "https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3",
             "group": "Italy"
@@ -198,11 +193,6 @@
         {
             "name": "BYOBLU",
             "url": "https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d",
-            "group": "Italy"
-        },
-        {
-            "name": "BYOBLU",
-            "url": "https://vavoo.to/vavoo-iptv/play/360776563844b7614309eb",
             "group": "Italy"
         },
         {
@@ -251,6 +241,11 @@
             "group": "Italy"
         },
         {
+            "name": "CANALE 21 LAZIO",
+            "url": "https://vavoo.to/vavoo-iptv/play/36744884556a262b65d9c9",
+            "group": "Italy"
+        },
+        {
             "name": "CANALE 5",
             "url": "https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d",
             "group": "Italy"
@@ -278,6 +273,16 @@
         {
             "name": "CANALE 8",
             "url": "https://vavoo.to/vavoo-iptv/play/31075009959a8de9232b11",
+            "group": "Italy"
+        },
+        {
+            "name": "CANALE 88 MADEINBO",
+            "url": "https://vavoo.to/vavoo-iptv/play/888430169ea2f335c3171",
+            "group": "Italy"
+        },
+        {
+            "name": "CANALE TELECHIARA",
+            "url": "https://vavoo.to/vavoo-iptv/play/3065008757a139b0fed8ff",
             "group": "Italy"
         },
         {
@@ -391,11 +396,6 @@
             "group": "Italy"
         },
         {
-            "name": "DISCOVERY DMAX",
-            "url": "https://vavoo.to/vavoo-iptv/play/3710269273f954671dec53",
-            "group": "Italy"
-        },
-        {
             "name": "DISCOVERY FOCUS",
             "url": "https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331",
             "group": "Italy"
@@ -501,6 +501,11 @@
             "group": "Italy"
         },
         {
+            "name": "ETV RETE 7",
+            "url": "https://vavoo.to/vavoo-iptv/play/1493820217edd99cc54d75",
+            "group": "Italy"
+        },
+        {
             "name": "EURO INDIE MUSIC CHART TV",
             "url": "https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e",
             "group": "Italy"
@@ -548,11 +553,6 @@
         {
             "name": "EXTRA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/33656973896c0d65694135",
-            "group": "Italy"
-        },
-        {
-            "name": "FAILARMY",
-            "url": "https://vavoo.to/vavoo-iptv/play/458018069af4096ff6c35",
             "group": "Italy"
         },
         {
@@ -816,16 +816,6 @@
             "group": "Italy"
         },
         {
-            "name": "LA TR3 MARSALA",
-            "url": "https://vavoo.to/vavoo-iptv/play/322737388601b884f9662d",
-            "group": "Italy"
-        },
-        {
-            "name": "LAC NEWS 24",
-            "url": "https://vavoo.to/vavoo-iptv/play/37228730056bf7e93438b",
-            "group": "Italy"
-        },
-        {
             "name": "LAZIO TV 13",
             "url": "https://vavoo.to/vavoo-iptv/play/56652751299dc0b400d5c",
             "group": "Italy"
@@ -883,6 +873,11 @@
         {
             "name": "MEDIASET EXTRA",
             "url": "https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e",
+            "group": "Italy"
+        },
+        {
+            "name": "MEDIASET EXTRA",
+            "url": "https://vavoo.to/vavoo-iptv/play/37521824789e4e758184cc",
             "group": "Italy"
         },
         {
@@ -1086,6 +1081,11 @@
             "group": "Italy"
         },
         {
+            "name": "RADIO 105",
+            "url": "https://vavoo.to/vavoo-iptv/play/679401461e3249bea621c",
+            "group": "Italy"
+        },
+        {
             "name": "RADIO 24",
             "url": "https://vavoo.to/vavoo-iptv/play/1586498225ea507133231c",
             "group": "Italy"
@@ -1148,6 +1148,11 @@
         {
             "name": "RADIONORBA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/26276627684bd1fbc5cb29",
+            "group": "Italy"
+        },
+        {
+            "name": "RAI",
+            "url": "https://vavoo.to/vavoo-iptv/play/3582607806269cf9583f2e",
             "group": "Italy"
         },
         {
@@ -1426,6 +1431,11 @@
             "group": "Italy"
         },
         {
+            "name": "RETE VENETA",
+            "url": "https://vavoo.to/vavoo-iptv/play/1118453149238dad962982",
+            "group": "Italy"
+        },
+        {
             "name": "RETE VENETA (VENETO)",
             "url": "https://vavoo.to/vavoo-iptv/play/3999322464caf93535eb45",
             "group": "Italy"
@@ -1653,11 +1663,6 @@
         {
             "name": "SKY INVESTIGATION",
             "url": "https://vavoo.to/vavoo-iptv/play/19686407898d20b9ce24d1",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY PRIMAFILA 1",
-            "url": "https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231",
             "group": "Italy"
         },
         {
@@ -1981,6 +1986,11 @@
             "group": "Italy"
         },
         {
+            "name": "STAR COMEDY",
+            "url": "https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8",
+            "group": "Italy"
+        },
+        {
             "name": "STAR CRIME",
             "url": "https://vavoo.to/vavoo-iptv/play/28436429458ff4e2cc4ae6",
             "group": "Italy"
@@ -2081,6 +2091,11 @@
             "group": "Italy"
         },
         {
+            "name": "TELE MIA",
+            "url": "https://vavoo.to/vavoo-iptv/play/12065430368dc2e9b11e8a",
+            "group": "Italy"
+        },
+        {
             "name": "TELE PAVIA",
             "url": "https://vavoo.to/vavoo-iptv/play/6164833177424547eff1f",
             "group": "Italy"
@@ -2088,6 +2103,11 @@
         {
             "name": "TELE PAVIA",
             "url": "https://vavoo.to/vavoo-iptv/play/593944289f99bcec3d51d",
+            "group": "Italy"
+        },
+        {
+            "name": "TELE PAVIA (BACKUP)",
+            "url": "https://vavoo.to/vavoo-iptv/play/2588652431462dade350ee",
             "group": "Italy"
         },
         {

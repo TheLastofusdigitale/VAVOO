@@ -197,8 +197,6 @@ https://vavoo.to/vavoo-iptv/play/590125569052ce0130373
 https://vavoo.to/vavoo-iptv/play/1371658771f5d431bd1ae6
 #EXTINF:-1 group-title="Italy",ENTELLA TV
 https://vavoo.to/vavoo-iptv/play/1444531463b67ef011dc18
-#EXTINF:-1 group-title="Italy",EQU TV
-https://vavoo.to/vavoo-iptv/play/28185866687e407e1edc60
 #EXTINF:-1 group-title="Italy",ESPANSIONE TV
 https://vavoo.to/vavoo-iptv/play/53948441989c19aba3352
 #EXTINF:-1 group-title="Italy",ESPERIA TV
@@ -211,8 +209,6 @@ https://vavoo.to/vavoo-iptv/play/3069499316a3427a69a204
 https://vavoo.to/vavoo-iptv/play/273312373c6b3b01f31cf
 #EXTINF:-1 group-title="Italy",ÈTV RETE 7
 https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
-#EXTINF:-1 group-title="Italy",ETV RETE 7
-https://vavoo.to/vavoo-iptv/play/1493820217edd99cc54d75
 #EXTINF:-1 group-title="Italy",EURO INDIE MUSIC CHART TV
 https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e
 #EXTINF:-1 group-title="Italy",EURO TV
@@ -279,6 +275,8 @@ https://vavoo.to/vavoo-iptv/play/28977827817ceeecfaf662
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
 #EXTINF:-1 group-title="Italy",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
+#EXTINF:-1 group-title="Italy",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 group-title="Italy",ICARO TV
 https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
 #EXTINF:-1 group-title="Italy",ICARO TV
@@ -357,8 +355,6 @@ https://vavoo.to/vavoo-iptv/play/1189750614b197994e963d
 https://vavoo.to/vavoo-iptv/play/12789846009c1f647db85b
 #EXTINF:-1 group-title="Italy",MARIA+VISION
 https://vavoo.to/vavoo-iptv/play/448530931a02141cb37b2
-#EXTINF:-1 group-title="Italy",MAVTV EUROPE
-https://vavoo.to/vavoo-iptv/play/18507350448845a562cc9
 #EXTINF:-1 group-title="Italy",MEDIASET 1
 https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTINF:-1 group-title="Italy",MEDIASET 20
@@ -599,6 +595,10 @@ https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
 #EXTINF:-1 group-title="Italy",RSI LA 2
 https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
+#EXTINF:-1 group-title="Italy",RSI LA 2
+https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
+#EXTINF:-1 group-title="Italy",RTC TELECALABRIA
+https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 group-title="Italy",RTL 102
 https://vavoo.to/vavoo-iptv/play/3168132911491b6a85a6e2
 #EXTINF:-1 group-title="Italy",RTL 102
@@ -775,6 +775,8 @@ https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 #EXTINF:-1 group-title="Italy",SKY SPORT UNO
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
+#EXTINF:-1 group-title="Italy",SKY SPORTS 24
+https://vavoo.to/vavoo-iptv/play/34936071312c994246f2bd
 #EXTINF:-1 group-title="Italy",SKY SPORTS GOLF
 https://vavoo.to/vavoo-iptv/play/27177400159a49bec8b4e4
 #EXTINF:-1 group-title="Italy",SKY SUPER TENNIS
@@ -819,6 +821,8 @@ https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
 #EXTINF:-1 group-title="Italy",SUPER TV BRESCIA
 https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
+#EXTINF:-1 group-title="Italy",SUPER TV BRESCIA
+https://vavoo.to/vavoo-iptv/play/58542785c2189f2dd3e8
 #EXTINF:-1 group-title="Italy",SUPER!
 https://vavoo.to/vavoo-iptv/play/3550030443fb56cbe586ef
 #EXTINF:-1 group-title="Italy",SUPER!
@@ -829,10 +833,10 @@ https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
 https://vavoo.to/vavoo-iptv/play/3531610572045662aa1174
 #EXTINF:-1 group-title="Italy",TELE ABRUZZO
 https://vavoo.to/vavoo-iptv/play/16683935829997b8a7bc92
-#EXTINF:-1 group-title="Italy",TELE ABRUZZO
-https://vavoo.to/vavoo-iptv/play/18735208961b5fab514ef8
 #EXTINF:-1 group-title="Italy",TELE CHIARA
 https://vavoo.to/vavoo-iptv/play/2487986216af30aedb116a
+#EXTINF:-1 group-title="Italy",TELE CHIARA
+https://vavoo.to/vavoo-iptv/play/2521825076452ac13ce197
 #EXTINF:-1 group-title="Italy",TELE FRIULI
 https://vavoo.to/vavoo-iptv/play/35518823447060ba68f520
 #EXTINF:-1 group-title="Italy",TELE LIGURIA SUD

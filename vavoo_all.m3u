@@ -101,8 +101,6 @@ https://vavoo.to/vavoo-iptv/play/466718273d17d85003ebc
 https://vavoo.to/vavoo-iptv/play/3914444703fd1a0c69d728
 #EXTINF:-1 group-title="Italy",CANALE 2 ALTAMURA
 https://vavoo.to/vavoo-iptv/play/1251695137b2f1b46ebe5b
-#EXTINF:-1 group-title="Italy",CANALE 21 CAMPANIA
-https://vavoo.to/vavoo-iptv/play/390600788675c13850cd70
 #EXTINF:-1 group-title="Italy",CANALE 21 EXTRA
 https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4
 #EXTINF:-1 group-title="Italy",CANALE 21 LAZIO
@@ -505,8 +503,6 @@ https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 #EXTINF:-1 group-title="Italy",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
-#EXTINF:-1 group-title="Italy",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
 #EXTINF:-1 group-title="Italy",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 group-title="Italy",RAI MOVIE
@@ -569,6 +565,8 @@ https://vavoo.to/vavoo-iptv/play/157497519660249c278f94
 https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 group-title="Italy",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
+#EXTINF:-1 group-title="Italy",REI TV
+https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6
 #EXTINF:-1 group-title="Italy",RETE 4
 https://vavoo.to/vavoo-iptv/play/4198218214cee07ebbc292
 #EXTINF:-1 group-title="Italy",RETE 4

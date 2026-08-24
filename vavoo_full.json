@@ -256,11 +256,6 @@
             "group": "Italy"
         },
         {
-            "name": "CANALE 21 CAMPANIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/390600788675c13850cd70",
-            "group": "Italy"
-        },
-        {
             "name": "CANALE 21 EXTRA",
             "url": "https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4",
             "group": "Italy"
@@ -1266,11 +1261,6 @@
             "group": "Italy"
         },
         {
-            "name": "RAI ITALIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0",
-            "group": "Italy"
-        },
-        {
             "name": "RAI MOVIE",
             "url": "https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9",
             "group": "Italy"
@@ -1423,6 +1413,11 @@
         {
             "name": "REGGIO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170",
+            "group": "Italy"
+        },
+        {
+            "name": "REI TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6",
             "group": "Italy"
         },
         {

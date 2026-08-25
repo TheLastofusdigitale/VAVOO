@@ -416,18 +416,8 @@
             "group": "Italy"
         },
         {
-            "name": "DISCOVERY FOCUS",
-            "url": "https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331",
-            "group": "Italy"
-        },
-        {
             "name": "DISCOVERY GIALLO",
             "url": "https://vavoo.to/vavoo-iptv/play/4257908524356f76ab6d46",
-            "group": "Italy"
-        },
-        {
-            "name": "DISCOVERY K2",
-            "url": "https://vavoo.to/vavoo-iptv/play/3037871903561253a95659",
             "group": "Italy"
         },
         {
@@ -878,11 +868,6 @@
         {
             "name": "M2O",
             "url": "https://vavoo.to/vavoo-iptv/play/1189750614b197994e963d",
-            "group": "Italy"
-        },
-        {
-            "name": "M2O TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/12789846009c1f647db85b",
             "group": "Italy"
         },
         {
@@ -1426,11 +1411,6 @@
             "group": "Italy"
         },
         {
-            "name": "RETE 4",
-            "url": "https://vavoo.to/vavoo-iptv/play/22357320045f329c720096",
-            "group": "Italy"
-        },
-        {
             "name": "RETE 8",
             "url": "https://vavoo.to/vavoo-iptv/play/1070290151a2161042a11a",
             "group": "Italy"
@@ -1623,6 +1603,11 @@
         {
             "name": "SKY CINEMA DUE",
             "url": "https://vavoo.to/vavoo-iptv/play/1228534500ffff855fff55",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY CINEMA DUE",
+            "url": "https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174",
             "group": "Italy"
         },
         {
@@ -2428,11 +2413,6 @@
         {
             "name": "VIDEOSTAR TV",
             "url": "https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86",
-            "group": "Italy"
-        },
-        {
-            "name": "VIDEOTOLENTINO",
-            "url": "https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c",
             "group": "Italy"
         },
         {

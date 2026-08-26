@@ -326,6 +326,11 @@
             "group": "Italy"
         },
         {
+            "name": "CG ENTERTAINMENT",
+            "url": "https://vavoo.to/vavoo-iptv/play/3881151331da379a356f21",
+            "group": "Italy"
+        },
+        {
             "name": "CIELO",
             "url": "https://vavoo.to/vavoo-iptv/play/27199536882db77bf0ce4c",
             "group": "Italy"
@@ -1421,6 +1426,11 @@
             "group": "Italy"
         },
         {
+            "name": "RETE 4",
+            "url": "https://vavoo.to/vavoo-iptv/play/22357320045f329c720096",
+            "group": "Italy"
+        },
+        {
             "name": "RETE 8",
             "url": "https://vavoo.to/vavoo-iptv/play/1070290151a2161042a11a",
             "group": "Italy"
@@ -1477,11 +1487,6 @@
         },
         {
             "name": "RSI LA 1",
-            "url": "https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387",
-            "group": "Italy"
-        },
-        {
-            "name": "RSI LA 1",
             "url": "https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610",
             "group": "Italy"
         },
@@ -1493,11 +1498,6 @@
         {
             "name": "RSI LA 2",
             "url": "https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f",
-            "group": "Italy"
-        },
-        {
-            "name": "RTC TELECALABRIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc",
             "group": "Italy"
         },
         {
@@ -1731,6 +1731,11 @@
             "group": "Italy"
         },
         {
+            "name": "SKY PRIMAFILA 15",
+            "url": "https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5",
+            "group": "Italy"
+        },
+        {
             "name": "SKY PRIMAFILA 16",
             "url": "https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582",
             "group": "Italy"
@@ -1783,6 +1788,11 @@
         {
             "name": "SKY PRIMAFILA 6",
             "url": "https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY PRIMAFILA 6",
+            "url": "https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855",
             "group": "Italy"
         },
         {
@@ -1931,11 +1941,6 @@
             "group": "Italy"
         },
         {
-            "name": "SKY SPORTS 24",
-            "url": "https://vavoo.to/vavoo-iptv/play/34936071312c994246f2bd",
-            "group": "Italy"
-        },
-        {
             "name": "SKY SPORTS F1",
             "url": "https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d",
             "group": "Italy"
@@ -2003,6 +2008,11 @@
         {
             "name": "STAR CHANNEL",
             "url": "https://vavoo.to/vavoo-iptv/play/323779351103799e6e03b2",
+            "group": "Italy"
+        },
+        {
+            "name": "STAR COMEDY",
+            "url": "https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8",
             "group": "Italy"
         },
         {

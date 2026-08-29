@@ -417,6 +417,8 @@ https://vavoo.to/vavoo-iptv/play/3559987993c0367839ba38
 https://vavoo.to/vavoo-iptv/play/43501686619a1a53c7d14
 #EXTINF:-1 group-title="Italy",PADRE PIO TV
 https://vavoo.to/vavoo-iptv/play/35598126040bce17c0686
+#EXTINF:-1 group-title="Italy",PAROLE DI VITA
+https://vavoo.to/vavoo-iptv/play/1727695336cf48b92b7314
 #EXTINF:-1 group-title="Italy",PEER TV ALTO ADIGE
 https://vavoo.to/vavoo-iptv/play/17895220057515b249c059
 #EXTINF:-1 group-title="Italy",PEOPLE ARE AWESOME
@@ -441,8 +443,6 @@ https://vavoo.to/vavoo-iptv/play/217875329778328d42d121
 https://vavoo.to/vavoo-iptv/play/280418908527b8c8187a0b
 #EXTINF:-1 group-title="Italy",QVC
 https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
-#EXTINF:-1 group-title="Italy",QVC ITALIA
-https://vavoo.to/vavoo-iptv/play/12325656817eefaf17ef24
 #EXTINF:-1 group-title="Italy",RADIO 101
 https://vavoo.to/vavoo-iptv/play/37244398612811f0050926
 #EXTINF:-1 group-title="Italy",RADIO 105
@@ -689,16 +689,10 @@ https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12
 https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
 #EXTINF:-1 group-title="Italy",SKY PRIMAFILA 11
 https://vavoo.to/vavoo-iptv/play/3285185277cd2292829163
-#EXTINF:-1 group-title="Italy",SKY PRIMAFILA 12
-https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 #EXTINF:-1 group-title="Italy",SKY PRIMAFILA 13
 https://vavoo.to/vavoo-iptv/play/310480937323455c2778b9
 #EXTINF:-1 group-title="Italy",SKY PRIMAFILA 14
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
-#EXTINF:-1 group-title="Italy",SKY PRIMAFILA 15
-https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
-#EXTINF:-1 group-title="Italy",SKY PRIMAFILA 16
-https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
 #EXTINF:-1 group-title="Italy",SKY PRIMAFILA 18
 https://vavoo.to/vavoo-iptv/play/347075802871b4b6547803
 #EXTINF:-1 group-title="Italy",SKY PRIMAFILA 2

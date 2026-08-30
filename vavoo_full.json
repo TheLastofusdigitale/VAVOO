@@ -16,6 +16,11 @@
             "group": "Italy"
         },
         {
+            "name": "27 TWENTY SEVEN",
+            "url": "https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3",
+            "group": "Italy"
+        },
+        {
             "name": "27 TWENTYSEVEN",
             "url": "https://vavoo.to/vavoo-iptv/play/80896559d4a6e09d36f1",
             "group": "Italy"
@@ -33,6 +38,11 @@
         {
             "name": "7 YOU & ME",
             "url": "https://vavoo.to/vavoo-iptv/play/178775175831e62385f371",
+            "group": "Italy"
+        },
+        {
+            "name": "70-80",
+            "url": "https://vavoo.to/vavoo-iptv/play/3701871205057c15adedda",
             "group": "Italy"
         },
         {
@@ -228,31 +238,6 @@
         {
             "name": "CANALE 122",
             "url": "https://vavoo.to/vavoo-iptv/play/466718273d17d85003ebc",
-            "group": "Italy"
-        },
-        {
-            "name": "CANALE 2",
-            "url": "https://vavoo.to/vavoo-iptv/play/3914444703fd1a0c69d728",
-            "group": "Italy"
-        },
-        {
-            "name": "CANALE 2 ALTAMURA",
-            "url": "https://vavoo.to/vavoo-iptv/play/1251695137b2f1b46ebe5b",
-            "group": "Italy"
-        },
-        {
-            "name": "CANALE 21 CAMPANIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/390600788675c13850cd70",
-            "group": "Italy"
-        },
-        {
-            "name": "CANALE 21 EXTRA",
-            "url": "https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4",
-            "group": "Italy"
-        },
-        {
-            "name": "CANALE 21 LAZIO",
-            "url": "https://vavoo.to/vavoo-iptv/play/36744884556a262b65d9c9",
             "group": "Italy"
         },
         {
@@ -806,11 +791,6 @@
             "group": "Italy"
         },
         {
-            "name": "LA 7 CINEMA",
-            "url": "https://vavoo.to/vavoo-iptv/play/11283881429a940ca96c4e",
-            "group": "Italy"
-        },
-        {
             "name": "LA 7 D",
             "url": "https://vavoo.to/vavoo-iptv/play/881846038948178d71a68",
             "group": "Italy"
@@ -1151,6 +1131,21 @@
             "group": "Italy"
         },
         {
+            "name": "RADIO ITALIA TREND TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/15694139179634c11062a2",
+            "group": "Italy"
+        },
+        {
+            "name": "RADIO ITALIA TV",
+            "url": "https://vavoo.to/vavoo-iptv/play/39657019376a0123c5f968",
+            "group": "Italy"
+        },
+        {
+            "name": "RADIO MONTE CARLO",
+            "url": "https://vavoo.to/vavoo-iptv/play/36504228878f7128ca6771",
+            "group": "Italy"
+        },
+        {
             "name": "RADIO NUMBER ONE",
             "url": "https://vavoo.to/vavoo-iptv/play/20943914064f53073f1ec3",
             "group": "Italy"
@@ -1166,11 +1161,6 @@
             "group": "Italy"
         },
         {
-            "name": "RAI",
-            "url": "https://vavoo.to/vavoo-iptv/play/3582607806269cf9583f2e",
-            "group": "Italy"
-        },
-        {
             "name": "RAI 1",
             "url": "https://vavoo.to/vavoo-iptv/play/875922788627becc98639",
             "group": "Italy"
@@ -1183,6 +1173,11 @@
         {
             "name": "RAI 2",
             "url": "https://vavoo.to/vavoo-iptv/play/1939210164cf0608420d67",
+            "group": "Italy"
+        },
+        {
+            "name": "RAI 2",
+            "url": "https://vavoo.to/vavoo-iptv/play/246253359a81d94887441",
             "group": "Italy"
         },
         {
@@ -1213,6 +1208,11 @@
         {
             "name": "RAI 5",
             "url": "https://vavoo.to/vavoo-iptv/play/3249873828c4ad4d2c1d15",
+            "group": "Italy"
+        },
+        {
+            "name": "RAI 5",
+            "url": "https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323",
             "group": "Italy"
         },
         {
@@ -1648,6 +1648,11 @@
         {
             "name": "SKY CINEMA UNO +24",
             "url": "https://vavoo.to/vavoo-iptv/play/2236517134d5e218f6528e",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY CINEMA UNO +24",
+            "url": "https://vavoo.to/vavoo-iptv/play/16998765309700e7076450",
             "group": "Italy"
         },
         {
@@ -2296,6 +2301,11 @@
             "group": "Italy"
         },
         {
+            "name": "TRSPORT",
+            "url": "https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5",
+            "group": "Italy"
+        },
+        {
             "name": "TV 2000",
             "url": "https://vavoo.to/vavoo-iptv/play/1949044924a6c217960c23",
             "group": "Italy"
@@ -2308,11 +2318,6 @@
         {
             "name": "TV 8",
             "url": "https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb",
-            "group": "Italy"
-        },
-        {
-            "name": "TV EUROPE",
-            "url": "https://vavoo.to/vavoo-iptv/play/242850702280d1035ac9d3",
             "group": "Italy"
         },
         {

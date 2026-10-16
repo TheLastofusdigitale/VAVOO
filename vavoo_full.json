@@ -1,11 +1,6 @@
 {
     "Italy": [
         {
-            "name": "111 TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/160013981909ce6c338fef",
-            "group": "Italy"
-        },
-        {
             "name": "12 TV PARMA",
             "url": "https://vavoo.to/vavoo-iptv/play/631792369df7bdd7e9291",
             "group": "Italy"
@@ -36,11 +31,6 @@
             "group": "Italy"
         },
         {
-            "name": "7 YOU & ME",
-            "url": "https://vavoo.to/vavoo-iptv/play/178775175831e62385f371",
-            "group": "Italy"
-        },
-        {
             "name": "70-80",
             "url": "https://vavoo.to/vavoo-iptv/play/3701871205057c15adedda",
             "group": "Italy"
@@ -48,11 +38,6 @@
         {
             "name": "A2ITV",
             "url": "https://vavoo.to/vavoo-iptv/play/116175301085677e1637cf",
-            "group": "Italy"
-        },
-        {
-            "name": "A3",
-            "url": "https://vavoo.to/vavoo-iptv/play/445158856541438cd842a",
             "group": "Italy"
         },
         {
@@ -101,11 +86,6 @@
             "group": "Italy"
         },
         {
-            "name": "ANIMAL PLANET",
-            "url": "https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd",
-            "group": "Italy"
-        },
-        {
             "name": "ANTENNA 2",
             "url": "https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7",
             "group": "Italy"
@@ -143,11 +123,6 @@
         {
             "name": "BABY TV",
             "url": "https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4",
-            "group": "Italy"
-        },
-        {
-            "name": "BBC SERIES",
-            "url": "https://vavoo.to/vavoo-iptv/play/1640233647b0779ba035a1",
             "group": "Italy"
         },
         {
@@ -936,11 +911,6 @@
             "group": "Italy"
         },
         {
-            "name": "MEDIASET ITALIA 2",
-            "url": "https://vavoo.to/vavoo-iptv/play/3538009430947511be2991",
-            "group": "Italy"
-        },
-        {
             "name": "MILAN TV",
             "url": "https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47",
             "group": "Italy"
@@ -1657,6 +1627,11 @@
         },
         {
             "name": "SKY CINEMA SUSPENSE",
+            "url": "https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f",
+            "group": "Italy"
+        },
+        {
+            "name": "SKY CINEMA SUSPENSE",
             "url": "https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06",
             "group": "Italy"
         },
@@ -1936,11 +1911,6 @@
             "group": "Italy"
         },
         {
-            "name": "SKY SPORTS 24",
-            "url": "https://vavoo.to/vavoo-iptv/play/34936071312c994246f2bd",
-            "group": "Italy"
-        },
-        {
             "name": "SKY SPORTS F1",
             "url": "https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d",
             "group": "Italy"
@@ -2121,6 +2091,11 @@
             "group": "Italy"
         },
         {
+            "name": "TELE PAVIA",
+            "url": "https://vavoo.to/vavoo-iptv/play/593944289f99bcec3d51d",
+            "group": "Italy"
+        },
+        {
             "name": "TELE PAVIA (BACKUP)",
             "url": "https://vavoo.to/vavoo-iptv/play/2588652431462dade350ee",
             "group": "Italy"
@@ -2193,11 +2168,6 @@
         {
             "name": "TELEMIA",
             "url": "https://vavoo.to/vavoo-iptv/play/32437629310acfa61179b0",
-            "group": "Italy"
-        },
-        {
-            "name": "TELEMISTRETTA",
-            "url": "https://vavoo.to/vavoo-iptv/play/14384405078009392cf5c8",
             "group": "Italy"
         },
         {

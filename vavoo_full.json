@@ -196,11 +196,6 @@
             "group": "Italy"
         },
         {
-            "name": "CANALE 21 EXTRA",
-            "url": "https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4",
-            "group": "Italy"
-        },
-        {
             "name": "CANALE 5",
             "url": "https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d",
             "group": "Italy"
@@ -337,11 +332,6 @@
         },
         {
             "name": "DEEJAY TV",
-            "url": "https://vavoo.to/vavoo-iptv/play/963607327f90ada131395",
-            "group": "Italy"
-        },
-        {
-            "name": "DEEJAY TV",
             "url": "https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319",
             "group": "Italy"
         },
@@ -418,6 +408,11 @@
         {
             "name": "ÈTV MARCHE",
             "url": "https://vavoo.to/vavoo-iptv/play/3069499316a3427a69a204",
+            "group": "Italy"
+        },
+        {
+            "name": "ETV MARCHE",
+            "url": "https://vavoo.to/vavoo-iptv/play/273312373c6b3b01f31cf",
             "group": "Italy"
         },
         {
@@ -816,6 +811,11 @@
             "group": "Italy"
         },
         {
+            "name": "OL3 RADIO",
+            "url": "https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5",
+            "group": "Italy"
+        },
+        {
             "name": "ONDA NOVARA TV",
             "url": "https://vavoo.to/vavoo-iptv/play/3134124967ad7ac6cb62f9",
             "group": "Italy"
@@ -1173,6 +1173,11 @@
         {
             "name": "RETE TV ITALIA",
             "url": "https://vavoo.to/vavoo-iptv/play/413105501853266fc8e1b9",
+            "group": "Italy"
+        },
+        {
+            "name": "RETE VENETA",
+            "url": "https://vavoo.to/vavoo-iptv/play/10851723533da93b5683eb",
             "group": "Italy"
         },
         {
@@ -1938,6 +1943,11 @@
         {
             "name": "TRG MEDIA",
             "url": "https://vavoo.to/vavoo-iptv/play/30209519673b772c86f279",
+            "group": "Italy"
+        },
+        {
+            "name": "TRSPORT",
+            "url": "https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5",
             "group": "Italy"
         },
         {

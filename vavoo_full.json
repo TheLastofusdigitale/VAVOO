@@ -212,6 +212,11 @@
         },
         {
             "name": "BYOBLU",
+            "url": "https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d",
+            "group": "Italy"
+        },
+        {
+            "name": "BYOBLU",
             "url": "https://vavoo.to/vavoo-iptv/play/360776563844b7614309eb",
             "group": "Italy"
         },
@@ -378,11 +383,6 @@
         {
             "name": "CREMONA 1",
             "url": "https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc",
-            "group": "Italy"
-        },
-        {
-            "name": "CRIME + INV",
-            "url": "https://vavoo.to/vavoo-iptv/play/196833914960066715a573",
             "group": "Italy"
         },
         {
@@ -791,11 +791,6 @@
             "group": "Italy"
         },
         {
-            "name": "KISS KISS ITALIA",
-            "url": "https://vavoo.to/vavoo-iptv/play/13708692992eeb9b07f00d",
-            "group": "Italy"
-        },
-        {
             "name": "KISS KISS NAPOLI",
             "url": "https://vavoo.to/vavoo-iptv/play/30279032788f9f7870557e",
             "group": "Italy"
@@ -993,6 +988,11 @@
         {
             "name": "NOVE",
             "url": "https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada",
+            "group": "Italy"
+        },
+        {
+            "name": "OL3 RADIO",
+            "url": "https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5",
             "group": "Italy"
         },
         {
@@ -1317,11 +1317,6 @@
         },
         {
             "name": "RAI YOYO",
-            "url": "https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312",
-            "group": "Italy"
-        },
-        {
-            "name": "RAI YOYO",
             "url": "https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1",
             "group": "Italy"
         },
@@ -1501,13 +1496,8 @@
             "group": "Italy"
         },
         {
-            "name": "RTP (RETE TELEVISIVA)",
-            "url": "https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3",
-            "group": "Italy"
-        },
-        {
-            "name": "RTTR",
-            "url": "https://vavoo.to/vavoo-iptv/play/3799362189218b541a9c76",
+            "name": "RTM",
+            "url": "https://vavoo.to/vavoo-iptv/play/958797744cd4efa7493ca",
             "group": "Italy"
         },
         {
@@ -2101,11 +2091,6 @@
             "group": "Italy"
         },
         {
-            "name": "TELE PAVIA (BACKUP)",
-            "url": "https://vavoo.to/vavoo-iptv/play/2588652431462dade350ee",
-            "group": "Italy"
-        },
-        {
             "name": "TELE TRICOLORE",
             "url": "https://vavoo.to/vavoo-iptv/play/2314613216d218b9f4abd4",
             "group": "Italy"
@@ -2178,16 +2163,6 @@
         {
             "name": "TELEMISTRETTA",
             "url": "https://vavoo.to/vavoo-iptv/play/14384405078009392cf5c8",
-            "group": "Italy"
-        },
-        {
-            "name": "TELEMOLISE",
-            "url": "https://vavoo.to/vavoo-iptv/play/780186974728e73711da8",
-            "group": "Italy"
-        },
-        {
-            "name": "TELENORD",
-            "url": "https://vavoo.to/vavoo-iptv/play/2923215049219f1039e542",
             "group": "Italy"
         },
         {
@@ -2283,11 +2258,6 @@
         {
             "name": "TRSPORT",
             "url": "https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5",
-            "group": "Italy"
-        },
-        {
-            "name": "TV 2000",
-            "url": "https://vavoo.to/vavoo-iptv/play/1949044924a6c217960c23",
             "group": "Italy"
         },
         {

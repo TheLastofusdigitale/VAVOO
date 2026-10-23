@@ -212,11 +212,6 @@
         },
         {
             "name": "BYOBLU",
-            "url": "https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d",
-            "group": "Italy"
-        },
-        {
-            "name": "BYOBLU",
             "url": "https://vavoo.to/vavoo-iptv/play/360776563844b7614309eb",
             "group": "Italy"
         },
@@ -388,6 +383,11 @@
         {
             "name": "CRIME + INV",
             "url": "https://vavoo.to/vavoo-iptv/play/196833914960066715a573",
+            "group": "Italy"
+        },
+        {
+            "name": "CUSANO NEWS7",
+            "url": "https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a",
             "group": "Italy"
         },
         {
@@ -1317,6 +1317,11 @@
         },
         {
             "name": "RAI YOYO",
+            "url": "https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312",
+            "group": "Italy"
+        },
+        {
+            "name": "RAI YOYO",
             "url": "https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1",
             "group": "Italy"
         },
@@ -1496,11 +1501,6 @@
             "group": "Italy"
         },
         {
-            "name": "RTM",
-            "url": "https://vavoo.to/vavoo-iptv/play/958797744cd4efa7493ca",
-            "group": "Italy"
-        },
-        {
             "name": "RTP (RETE TELEVISIVA)",
             "url": "https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3",
             "group": "Italy"
@@ -1623,11 +1623,6 @@
         {
             "name": "SKY CINEMA ROMANCE",
             "url": "https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY CINEMA STORIES",
-            "url": "https://vavoo.to/vavoo-iptv/play/2451443049820d9180f232",
             "group": "Italy"
         },
         {

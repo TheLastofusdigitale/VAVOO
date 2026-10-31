@@ -316,11 +316,6 @@
             "group": "Italy"
         },
         {
-            "name": "CUSANO NEWS7",
-            "url": "https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a",
-            "group": "Italy"
-        },
-        {
             "name": "DAZN 1",
             "url": "https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20",
             "group": "Italy"
@@ -413,6 +408,11 @@
         {
             "name": "ÈTV MARCHE",
             "url": "https://vavoo.to/vavoo-iptv/play/3069499316a3427a69a204",
+            "group": "Italy"
+        },
+        {
+            "name": "ETV MARCHE",
+            "url": "https://vavoo.to/vavoo-iptv/play/273312373c6b3b01f31cf",
             "group": "Italy"
         },
         {
@@ -848,11 +848,6 @@
         {
             "name": "PADRE PIO TV",
             "url": "https://vavoo.to/vavoo-iptv/play/43501686619a1a53c7d14",
-            "group": "Italy"
-        },
-        {
-            "name": "PAROLE DI VITA",
-            "url": "https://vavoo.to/vavoo-iptv/play/1727695336cf48b92b7314",
             "group": "Italy"
         },
         {
@@ -1397,11 +1392,6 @@
         },
         {
             "name": "SKY CINEMA UNO +24",
-            "url": "https://vavoo.to/vavoo-iptv/play/2236517134d5e218f6528e",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY CINEMA UNO +24",
             "url": "https://vavoo.to/vavoo-iptv/play/16998765309700e7076450",
             "group": "Italy"
         },
@@ -1432,22 +1422,12 @@
         },
         {
             "name": "SKY PRIMAFILA 10",
-            "url": "https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY PRIMAFILA 10",
             "url": "https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8",
             "group": "Italy"
         },
         {
             "name": "SKY PRIMAFILA 11",
             "url": "https://vavoo.to/vavoo-iptv/play/3285185277cd2292829163",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY PRIMAFILA 12",
-            "url": "https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267",
             "group": "Italy"
         },
         {
@@ -1468,16 +1448,6 @@
         {
             "name": "SKY PRIMAFILA 16",
             "url": "https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY PRIMAFILA 18",
-            "url": "https://vavoo.to/vavoo-iptv/play/347075802871b4b6547803",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY PRIMAFILA 2",
-            "url": "https://vavoo.to/vavoo-iptv/play/8772007144e30fd3ca161",
             "group": "Italy"
         },
         {
@@ -1527,17 +1497,7 @@
         },
         {
             "name": "SKY PRIMAFILA 7",
-            "url": "https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY PRIMAFILA 7",
             "url": "https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4",
-            "group": "Italy"
-        },
-        {
-            "name": "SKY PRIMAFILA 8",
-            "url": "https://vavoo.to/vavoo-iptv/play/213025533947852942a90f",
             "group": "Italy"
         },
         {
